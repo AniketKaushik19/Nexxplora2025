@@ -17,11 +17,7 @@ const About = () => {
                         <p>
                             From electrifying coding rounds, featuring inner enginners to a myriad of competitive events in code, music, quiz, literature, and mock interviews, Nexxplora is a melting pot of talent and creativity.
                         </p>
-                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-center pt-6">
-                            <div>
-                                <h3 className="text-4xl font-bold text-gradient">1.1K+</h3>
-                                <p className="text-gray-400">Footfall</p>
-                            </div>
+                        <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-center pt-6">
                             <div>
                                 <h3 className="text-4xl font-bold text-gradient">20+</h3>
                                 <p className="text-gray-400">Events</p>
