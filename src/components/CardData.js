@@ -3,7 +3,7 @@ const Carddata=[
         key:1,
         check:1,
         reg:"Registration Closed",
-        name:"webwonder",
+        name:"Web Wonder",
         imgsrc:"img/webwonder.avif",
         link:"https://docs.google.com/forms/d/e/1FAIpQLSd6haDTbM-MlmTFKBwf-E3-ZTxZD5AAB1AzWculz5Fb6MLJ2w/viewform?usp=sharing&ouid=101332963653483640625",
         page:"/web"
@@ -39,7 +39,7 @@ const Carddata=[
         key:5,
         check:5,
         reg:"Registration Closed",
-        name:"Coding and debugging",
+        name:"Coding and Debugging",
         imgsrc:"img/coding.avif",
         link:"https://docs.google.com/forms/d/e/1FAIpQLSfneQWqTzbtdybx4CqNGUxUXmlkXBdAS4i_hyLRllbfaz1wFw/viewform?usp=header",
         page:"/code"
@@ -143,7 +143,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Group Discussion",
      imgsrc:"img/gd.avif",
-     //link:"https://forms.gle/G8HA4Rz5S7BdnQKQ8",
+     link:"https://docs.google.com/forms/d/e/1FAIpQLSfUHPbIR27AIiNxjZdJxPpJS0L4rx_JDR7J9YnZtRh5GhuRCg/viewform?usp=header",
      page:"/techwriting"
     },
     {
@@ -178,9 +178,9 @@ const Carddata=[
         key:22,
         check:22,
         reg:"Registration Closed",
-        name:"Business idea",
+        name:"Business Idea",
         imgsrc:"img/pitchidea.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSdhreIb7j1nQhocoNVvrNo92VCQY5uHlW5StC4UDjRi7ZsdLA/viewform?usp=sharing&ouid=101332963653483640625",
+        link:"https://docs.google.com/forms/d/e/1FAIpQLSehWkyveNsqm6PkeU4radzQYPoynN4wgMoGlRuoMr9hZ6PTJw/viewform?usp=header",
         page:"/revment"
     },
     {
@@ -225,9 +225,10 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Data Visualization using Dashboard",
         imgsrc:"img/dvd.jpeg",
-        link:"https//:docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=sharing&ouid=101332963653483640625",
+        link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
         page:"/revment"
     },
+
 ]
 
 export default Carddata;

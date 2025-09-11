@@ -3,14 +3,15 @@ import React from 'react'
 const About = () => {
   return (
 //    <!-- About Section -->
-        <div id="about" className="py-20 ">
+        <div id="about" className="py-20 "  data-aos="fade-right" data-aos-easing="ease-in-out"
+ >
             <div className="container mx-auto px-6">
                 <div className="text-center mb-12">
-                    <h2 className="text-4xl md:text-5xl font-bold text-white">About <span className="text-gradient">Nexxplora</span></h2>
-                    <p className="text-lg text-gray-400 mt-2">Experience the legacy, feel the vibe.</p>
+                    <h2 className="text-4xl md:text-5xl font-bold text-white"  >About <span className="text-gradient" >Nexxplora</span></h2>
+                    <p className="text-lg text-gray-400 mt-2" >Experience the legacy, feel the vibe.</p>
                 </div>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-                    <div className="space-y-6 text-gray-300 text-lg">
+                    <div className="space-y-6 text-gray-300 text-lg" >
                         <p>
                             Nexxplora, the engineer's day event of SR Institute of Management and Technology (SRIMT) Lucknow, is a two-day extravaganza of code, music, art, and intellectual exchange. Rooted in the ancient spirit of Lucknow, it's one of college's largest and most awaited  events.
                         </p>

@@ -30,7 +30,8 @@ const Events = () => {
             <div className="container mx-auto px-6">
 
                 {/* heading  */}
-                <div className="text-center mb-16">
+                <div className="text-center mb-16" data-aos="fade-down" data-aos-duration="1000"
+ data-aos-easing="ease-in-out">
                     <h2 className="text-4xl md:text-5xl font-bold text-white">Our <span className="text-gradient">Events</span></h2>
                     <p className="text-lg text-gray-400 mt-2">A stage for every passion.</p>
                 </div>
