@@ -45,7 +45,6 @@ export const Footer = () => {
             </div>
             <div className="text-center text-gray-500 mt-12 border-t border-gray-800 pt-6">
                 <p>&copy; 2025 Nexxplora,Developers Aniket Kaushik , Sonia Sharma and Ajay Singh (SRIMT) Lucknow. All rights reserved.</p>
-                 <p className="text-sm mt-1">Created for demonstration purposes.</p>
             </div>
         </div>
     </footer>
