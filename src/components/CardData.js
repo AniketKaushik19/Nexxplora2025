@@ -75,7 +75,7 @@ const Carddata=[
     key:9,
         check:9,
         reg:"Registration Closed",
-        name:"PPT Presentation",
+        name:"PPT/Project Presentation",
          imgsrc:"img/ppt.avif",
          link:"https://docs.google.com/forms/d/e/1FAIpQLScaQoXhvaEDqyhjNC3tJ4yj9mrb-yjuH2MG76cHFlsDG59wcw/viewform?usp=sharing&ouid=101332963653483640625",
          page:"/ppt"
@@ -114,7 +114,7 @@ const Carddata=[
         key:15,
         check:15,
     reg:"Registration Closed",
-     name:"DSA",
+     name:"Codeless development",
      imgsrc:"img/dsa.avif",
      link:"https://docs.google.com/forms/d/e/1FAIpQLScVxXdngWTRh5mDMa49bGWkeBmk4BoKl_VYtBIOtFTw2byAUQ/viewform?usp=header",
      page:"/dsa"
@@ -223,7 +223,7 @@ const Carddata=[
         key:27,
         check:27,
         reg:"Registration Closed",
-        name:"Data Visualization using Dashboard",
+        name:"Data Representation using Dashboard",
         imgsrc:"img/dvd.jpeg",
         link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
         page:"/revment"
