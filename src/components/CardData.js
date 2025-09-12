@@ -213,7 +213,7 @@ const Carddata=[
     {
         key:27,
         check:27,
-        reg:"Registration Closed",
+        reg:"Registration open",
         name:"Data Representation using Dashboard",
         imgsrc:"img/dvd.jpeg",
         link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
