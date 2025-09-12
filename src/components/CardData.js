@@ -219,6 +219,15 @@ const Carddata=[
         link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
         page:"/revment"
     },
+    {
+        key:28,
+        check:28,
+        reg:"Registration open",
+        name:"Tech Treasure Hunt",
+        imgsrc:"img/techtreasure.png",
+        link:"https://docs.google.com/forms/d/e/1FAIpQLSezJBiyEHjXJ6B71-BQ9VTsYele1ZAmIz1G8y-SKRES1wZ4jQ/viewform?usp=header",
+        page:"/revment"
+    },
 
 ]
 

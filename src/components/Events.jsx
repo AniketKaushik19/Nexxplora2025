@@ -1,29 +1,9 @@
 import axios from 'axios'
-import React, { useEffect, useState } from 'react'
 import EventCard from './EventCard'
 import Carddata from './CardData'
 
 const Events = () => {
-    const [events,setEvents]=useState([
-        {eventname:"Coding",
-          desc:"abc",
-          pic:"https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1973&auto=format&fit=crop",
-          about:{}
-        }
-    ])
-   useEffect(() => {
-    const fetchEvents = async () => {
-        try {
-            const response = await axios.get("http://130.30.29.215:7000/api/events/get");
-            setEvents(response.data.event);
-            console.log(response.data.event);
-        } catch (error) {
-            console.log(error.message);
-        }
-    };
-    fetchEvents();
-}, []);
-   console.log(events)
+
   return (
         // <!-- Events Section -->
         <section id="events" className="py-20 bg-gray-900 ">
