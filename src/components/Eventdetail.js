@@ -545,7 +545,60 @@ export const eventdetail={
       "about": "A team-based drawing and guessing game that tests visual communication. One member draws while others guess the word or phrase. It’s fast, fun, and full of laughter. The better the sketch, the quicker the win.",
       "hosted_by": "Anshika",
       "room_number": "B-106",
-      "mobile_number": "+91-8924045356"
+      "mobile_number": "+91-8924045356",
+      "rounds":[
+  {
+    "round": "Event Details",
+    "title": "Pictionary – Nexxplora 2K25",
+    "task": "A fast-paced group event where teams guess words based on drawings made by their teammates. Combines creativity, quick thinking, and teamwork in a fun and competitive format."
+  },
+  {
+    "round": "Objective",
+    "title": "",
+    "task": "Promote visual communication, team coordination, and spontaneous thinking through a classic drawing-and-guessing challenge."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "Teams of 3 members compete by guessing objects or actions drawn by one teammate based on randomly selected chits. Each team gets 80 seconds per turn. The team that guesses correctly in the shortest time compared to their rival wins the round. An additional final round may be added based on turnout, where all three members draw and guess within 30 seconds per turn."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Team size: 3 members. Solo registrants will be paired. Registration capped at 30 entries. Drawing member cannot speak, write letters, or lip-sync. Only visual hints allowed. Stopwatch used for timing. Rival teams alternate turns with different chits."
+  },
+  {
+    "round": "Event Format – Round 1",
+    "title": "Main Round",
+    "task": "One member draws based on a chit, other two guess within 80 seconds. Rival team follows same format. Winner determined by fastest correct guess."
+  },
+  {
+    "round": "Event Format – Final Round",
+    "title": "All-Play Challenge (Conditional)",
+    "task": "If needed, each team member draws one chit and teammates guess within 30 seconds per turn. Team with most correct guesses wins."
+  },
+  {
+    "round": "Resources Required",
+    "title": "",
+    "task": "Whiteboard or drawing sheets, markers, stopwatch, bowl with chits, volunteers for timekeeping and score tracking."
+  },
+  {
+    "round": "Expected Outcomes",
+    "title": "",
+    "task": "Encourage spontaneous creativity, strengthen team dynamics, and provide a light-hearted break from technical events."
+  },
+  {
+    "round": "Prizes & Recognition",
+    "title": "",
+    "task": "Certificates for all participants, goodies or vouchers for top 3 teams, featured highlights on college social media or newsletter."
+  },
+  {
+    "round": "Timeline",
+    "title": "",
+    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 1.5–2 hours depending on number of teams."
+  }
+]
+
     },
     "14":{
       "name": "Debate",
