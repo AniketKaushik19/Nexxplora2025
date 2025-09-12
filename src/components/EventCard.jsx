@@ -16,15 +16,15 @@ const EventCard = ({name,link,imgsrc,id}) => {
                </div>
                 <h3 className="text-2xl font-bold text-white">{name}</h3>
                 {/* <p className="text-gray-400 mt-2">{}</p> */}
-                <div className='flex gap-10 justify-center'>
+                <div className='flex  justify-center'>
 
                 <NavLink to={link}>
-                <button className='btn cursor-pointer flex bg-purple-600 rounded-2xl border p-2  relative z-50 my-3 hover:bg-amber-700'>
+                <button className='btn cursor-pointer flex px-3 bg-purple-600 rounded-md border p-2  relative z-50 my-3 hover:bg-amber-700 w-max '>
                   Register Now
                   </button>
                   </NavLink>
                 <NavLink to={`/${id}`}>
-                <button className='btn cursor-pointer flex bg-blue-500 rounded-2xl border p-2  mx-10 relative z-50 my-3 hover:bg-amber-700'>
+                <button className='btn cursor-pointer flex px-3 bg-blue-500 rounded-md border p-2  mx-10 relative z-50 my-3 hover:bg-amber-700'>
                    View
                   </button>
                   </NavLink>

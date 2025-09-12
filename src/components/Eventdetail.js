@@ -204,11 +204,87 @@ export const eventdetail={
 
     },
   "15":  {
-      "name": "Codeless Development",
-      "about": "Despite the name, this event is essentially about solving Data Structures and Algorithms (DSA) problems using visual or no-code platforms. Participants build logic-driven applications without traditional coding. It’s ideal for those who understand problem-solving but prefer intuitive tools. Creativity and structure matter most.",
+      "name": "Codeless Development / DSA",
       "hosted_by": "Ishan Kr. Mishra",
       "room_number": "B-302",
-      "mobile_number": "+91-not available"
+      "mobile_number": "+91-not available",
+      "rounds":[
+  {
+    "round": "Event Format – Round 1",
+    "title": "Technical Quiz",
+    "task": "Quiz of 20 multiple choice technical questions with a 30-minute timer."
+  },
+  {
+    "round": "Event Format – Round 2",
+    "title": "HTML5 Animation/Game",
+    "task": "40 minutes to develop an HTML5 output of an animation or game using freeware codeless platforms."
+  },
+  {
+    "round": "Event Format – Round 3",
+    "title": "Android App Development",
+    "task": "80 to 90 minutes to develop an Android application using freeware/open source codeless platforms."
+  },
+  {
+    "round": "Eligibility",
+    "title": "",
+    "task": "Basic knowledge of programming language is required (i.e. beginner level)."
+  },
+  {
+    "round": "Briefing",
+    "title": "",
+    "task": "Briefing will be given tomorrow using projector to participants by third-year student coordinators/volunteers."
+  },
+  {
+    "round": "Topics of DSA",
+    "title": "Difficulty Levels",
+    "task": "1. Array Easy and Medium\n2. String\n3. Hashing\n4. Binary Search\n5. Sorting Algorithms\n6. Patterns\n7. Sliding Window\n8. Mathematical Problems"
+  },
+  {
+    "round": "Language",
+    "title": "",
+    "task": "C++, Java, Python, JavaScript (choose any one)"
+  },
+  {
+    "round": "Rules",
+    "title": "",
+    "task": "NO use of Internet or AI platform for problem solving."
+  },
+  {
+    "round": "Rules",
+    "title": "",
+    "task": "Code should be Structured not messy."
+  },
+  {
+    "round": "Rules",
+    "title": "",
+    "task": "Code should be Optimised not only the Brute Force Approach."
+  },
+  {
+    "round": "Rules",
+    "title": "",
+    "task": "NO code will be submitted after the time limit exceeds."
+  },
+  {
+    "round": "Structure of Event",
+    "title": "Round 1",
+    "task": "2 problems (40 minutes)"
+  },
+  {
+    "round": "Structure of Event",
+    "title": "Round 2",
+    "task": "3 problems (60 minutes)"
+  },
+  {
+    "round": "Structure of Event",
+    "title": "Round 3",
+    "task": "1 problem (20 minutes)"
+  },
+  {
+    "round": "Platform",
+    "title": "",
+    "task": "LeetCode"
+  }
+]
     },
   "4": {
   "name": "ChatGPT Prompt Challenge",
@@ -535,7 +611,24 @@ export const eventdetail={
       "about": "Teams collaborate to build innovative tech solutions from scratch. The event encourages creativity, coding, and problem-solving under pressure. Participants present working prototypes and pitch their ideas. It’s a celebration of innovation and teamwork.",
       "hosted_by": "Vishal Paswan",
       "room_number": "Seminar Hall",
-      "mobile_number": "+91-7007641143"
+      "mobile_number": "+91-7007641143",
+      "rounds":[
+  {
+    "round": "Instructions",
+    "title": "Hackathon Link",
+    "task": "Please click the link provided, choose your project topic, and start preparing for the hackathon sincerely. [Visit SRIMT Hackathon 2025](https://srhackthon.vercel.app/)"
+  },
+  {
+    "round": "Event Format – 1st Year",
+    "title": "",
+    "task": "First round: MCQ. Second round: Final project development."
+  },
+  {
+    "round": "Event Format – 2nd, 3rd & 4th Year",
+    "title": "",
+    "task": "First round: PPT presentation. Second round: Final project development."
+  }
+]
     }, 
     "6":   {
       "name": "LAN Gaming / Online Gaming",
@@ -631,7 +724,34 @@ export const eventdetail={
       "about": "Participants present innovative business ideas with market potential. The pitch includes problem identification, solution, and feasibility. Creativity and clarity are key. It’s a platform to turn entrepreneurial dreams into reality.",
       "hosted_by": "Yash Rai",
       "room_number": "B-205",
-      "mobile_number": "+91-8808484913"
+      "mobile_number": "+91-8808484913",
+      "rounds":[
+  {
+    "round": "Team Composition",
+    "title": "",
+    "task": "Each team can have 1–3 participants."
+  },
+  {
+    "round": "Originality Requirement",
+    "title": "",
+    "task": "Participants must present an original business idea (no plagiarism or copied concepts)."
+  },
+  {
+    "round": "Pitch Format",
+    "title": "",
+    "task": "Pitch duration: 5–7 minutes presentation + 3 minutes Q&A from judges."
+  },
+  {
+    "round": "Presentation Tools",
+    "title": "",
+    "task": "Use of slides, charts, or prototypes is allowed (bring your own resources)."
+  },
+  {
+    "round": "Judging Criteria",
+    "title": "",
+    "task": "Ideas will be judged on innovation, feasibility, clarity, and market potential."
+  }
+]
     },
     "21":{
       "name": "Pictionary",
@@ -698,7 +818,24 @@ export const eventdetail={
       "about": "Participants argue for or against a given topic with structured reasoning. It’s a test of logic, articulation, and rebuttal strength. Confidence and clarity are essential. The best debaters think fast and speak smart.",
       "hosted_by": "Ananya Dixit",
       "room_number": "B-101",
-      "mobile_number": "+91-Not available"
+      "mobile_number": "+91-Not available",
+      "rounds":[
+  {
+    "round": "Event Format – Round 1",
+    "title": "Opening Statement",
+    "task": "2–3 mins per team. Present main arguments. No interruptions."
+  },
+  {
+    "round": "Event Format – Round 2",
+    "title": "Rebuttal & Cross-Questions",
+    "task": "2 mins rebuttal each. 1 min cross-questioning. Stick to topic, no personal remarks."
+  },
+  {
+    "round": "Event Format – Round 3",
+    "title": "Rapid-Fire & Conclusion",
+    "task": "3–5 quick questions (30s answers). 1 min final conclusion per team."
+  }
+]
     },
     "18":{
       "name": "Group Discussion (GD)",

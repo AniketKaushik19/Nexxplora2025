@@ -4,7 +4,7 @@ const About = () => {
   return (
 //    <!-- About Section -->
         <div id="about" className="py-20 "  data-aos="fade-right" data-aos-easing="ease-in-out"
- >
+ data-aos-duration="1000">
             <div className="container mx-auto px-6">
                 <div className="text-center mb-12">
                     <h2 className="text-4xl md:text-5xl font-bold text-white"  >About <span className="text-gradient" >Nexxplora</span></h2>
