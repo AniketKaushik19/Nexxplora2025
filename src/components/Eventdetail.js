@@ -359,16 +359,6 @@ export const eventdetail={
           "title": "",
           "task": "Coding errors and bugs Programming lifestyle Subject-related Exams Engineering struggles"
         },
-        {
-          "round": "Allowed",
-          "title": "",
-          "task": "Final Round (20 min) – 15-second meme reel"
-        },
-        {
-          "round": " Not Allowed",
-          "title": "",
-          "task": "Final Round (20 min) – 15-second meme reel"
-        },
       ]
 
     },
