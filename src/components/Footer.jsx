@@ -1,6 +1,6 @@
-import { Facebook, Instagram, LucideFacebook, Mail, MapPin, Twitter, Youtube } from 'lucide-react'
+import { Facebook, Instagram, Linkedin, LucideFacebook, Mail, MapPin, Twitter, Youtube } from 'lucide-react'
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 export const Footer = () => {
   return (
     //   <!-- Footer -->
@@ -12,10 +12,11 @@ export const Footer = () => {
                     <h3 className="text-2xl font-bold text-gradient">NEXXPLORA</h3>
                     <p className="mt-2 text-gray-400">Engineer's day event<br/>SR Institute of Management and Technology (SRIMT) Lucknow</p>
                     <div className="flex space-x-4 mt-4">
-                        <Link to="#" className="text-gray-400 hover:text-white"><LucideFacebook/></Link>
-                        <Link to="#" className="text-gray-400 hover:text-white"><Instagram/></Link>
-                        <Link to="#" className="text-gray-400 hover:text-white"><Twitter/></Link>
-                        <Link to="#" className="text-gray-400 hover:text-white"><Youtube/></Link>
+                        <NavLink to="#" className="text-gray-400 hover:text-white"><LucideFacebook/></NavLink>
+                        <NavLink to="https://www.instagram.com/srgrouplko?igsh=MXg1aTFjZTNvNmMwNg==" className="text-gray-400 hover:text-white"><Instagram/></NavLink>
+                        <NavLink to="https://x.com/SRGROUPLKO?t=9hZcCbyWxWB6pmI4OXRd9w&s=09" className="text-gray-400 hover:text-white"><Twitter/></NavLink>
+                        <NavLink to="https://youtube.com/@srgrouplucknow5707?si=BPHkmQT3pbGy27tG" className="text-gray-400 hover:text-white"><Youtube/></NavLink>
+                        <NavLink to="https://www.linkedin.com/company/srgrouplko/" className="text-gray-400 hover:text-white"><Linkedin/></NavLink>
                     </div>
                 </div>
                 {/* <!-- Quick Links --> */}
@@ -38,7 +39,7 @@ export const Footer = () => {
                         </li>
                         <li className="flex items-center">
                            <Mail/>
-                           <span className='mx-3'> contact@sr.org</span>
+                           <span className='mx-3'>info@srgi.in</span>
                         </li>
                     </ul>
                 </div>
