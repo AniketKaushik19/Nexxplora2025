@@ -48,7 +48,7 @@ const Carddata=[
         key:6,
         check:6,
         reg:"Registration Closed",
-        name:"Lan Gaming",
+        name:"Lan Gaming / Online Gaming",
         imgsrc:"img/gaming.avif",
         link:"https://docs.google.com/forms/d/e/1FAIpQLSdMTE8qJU0M3ubu-WpqwhXt-yZ0h6gpEXPqjLOgi9j0P2HOkg/viewform?usp=sharing&ouid=101332963653483640625",
         page:"/lan"
