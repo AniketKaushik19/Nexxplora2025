@@ -46,35 +46,15 @@ export const eventdetail={
     "task": "Teams of 3 to 5 members will create and present a product advertisement in Hindi, English, or a mix of both. Each act must include a product name, tagline, posters/visuals, and key features. The total performance time is 5–7 minutes including setup."
   },
   {
-    "round": "Rules & Regulations",
-    "title": "",
-    "task": "Team size: 3–5 members. Language: Hindi, English, or mixed. Mandatory elements: Product Name, Tagline, Posters/Visuals, Key Features. Time limit: 5–7 minutes per act. No offensive or inappropriate content allowed."
-  },
-  {
     "round": "Judging Criteria",
     "title": "",
     "task": "Creativity, clarity of message, entertainment value, teamwork, and effective use of visuals and product features."
-  },
-  {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Stage or classroom setup, projector or display for visuals, microphones (if available), volunteers for timekeeping and coordination, judging panel with marketing or creative background."
   },
   {
     "round": "Expected Outcomes",
     "title": "",
     "task": "Boost confidence in public speaking, foster creative thinking and collaboration, and provide a platform for humorous and impactful storytelling."
   },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for all participants, goodies or vouchers for top 3 teams, featured acts on college social media or newsletter."
-  },
-  {
-    "round": "Timeline",
-    "title": "",
-    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 2 hours depending on number of teams."
-  }
 ]
     },
    "1": {
@@ -110,18 +90,28 @@ export const eventdetail={
    "7": {
       "name": "Mock Interview",
   "about": "Participants undergo a simulated interview experience guided by real mentors. The session helps refine communication, confidence, and professional etiquette. Feedback is provided to help candidates improve their performance. It’s a valuable opportunity to prepare for real-world job interviews.",
-  "rounds": [
-    {
-      "task": [
-        "Students must be dressed in college uniform or formal attire.",
-        "Kindly carry a copy of your updated resume.",
-        "Be prepared with a self-introduction.",
-        "Your resume should clearly highlight the skills you are confident in."
-      ]
-    }
-  ]
-
-,
+  "rounds":[
+  {
+    "round": "Instructions",
+    "task": "Students must be dressed in college uniform or formal attire."
+  },
+  {
+    "round": "Instructions",
+    "title": "Resume Requirement",
+    "task": "Kindly carry a copy of your updated resume."
+  },
+  {
+    "round": "Instructions",
+    "title": "Self-Introduction",
+    "task": "Be prepared with a self-introduction."
+  },
+  {
+    "round": "Instructions",
+    "title": "Skill Highlighting",
+    "task": "Your resume should clearly highlight the skills you are confident in."
+  }
+]
+    ,
       "hosted_by": "Akash Babu",
       "room_number": "B-202",
       "mobile_number": "+91-8318628430"
@@ -143,17 +133,32 @@ export const eventdetail={
       "name": "Poster Making",
       "about": "Participants design a poster on a given theme and must explain the concept behind it. The event emphasizes visual storytelling and message clarity. Artistic skills and thematic relevance are key judging criteria. It’s a chance to turn ideas into compelling visuals.",
       "rounds": [
-        {
-          "round": "Topics",
-          "title": "",
-          "task": " 	Globalization and Its Effect 	Social Media  	Global Warming 	Role of Engineering in Human Life. 	Telecommunication"
-        },
-        {
-          "round": "Overview",
-          "title": "",
-          "task": "•	Posters must be clear, visually appealing, and readable from at least 10 feet away.•	The title should be short, attractive, and relevant to the theme.•	Text should be concise and well-structured, using bullets, numbering, or headlines where needed.•	Participants must prepare their posters at home and bring it safely on 16th Sept."
-        }
-      ]
+  {
+    "round": "Topics",
+    "title": "",
+    "task": " Globalization and Its Effect  Social Media  Global Warming  Role of Engineering in Human Life  Telecommunication"
+  },
+  {
+    "round": "Overview",
+    "title": "Poster Design Guidelines",
+    "task": "Posters must be clear, visually appealing, and readable from at least 10 feet away."
+  },
+  {
+    "round": "Overview",
+    "title": "Title Requirements",
+    "task": "The title should be short, attractive, and relevant to the theme."
+  },
+  {
+    "round": "Overview",
+    "title": "Content Structure",
+    "task": "Text should be concise and well-organized using bullets, numbering, or headlines where needed."
+  },
+  {
+    "round": "Overview",
+    "title": "Submission Instructions",
+    "task": "Participants must prepare their posters at home and bring them safely on 16th Sept."
+  }
+]
 ,
       "hosted_by": "Ritika",
       "room_number": "No Room Required",
@@ -252,22 +257,62 @@ export const eventdetail={
   "name": "PPT or Project Presentation",
   "about": "Participants will present their academic or technical projects through a structured PowerPoint presentation. The event emphasizes clarity, innovation, and communication skills. Presenters must explain their problem statement, methodology, results, and future scope within a limited time. Judges will evaluate based on content, delivery, and visual design.",
   "rounds": [
-    {
-      "task": [
-        "Keep slides simple and clean: avoid overcrowding, use bullet points, and focus on one idea per slide.",
-        "Use readable fonts and sizes: minimum 24pt, simple fonts like Arial or Calibri, avoid decorative fonts.",
-        "Include visuals: use relevant images, charts, and diagrams to support your explanation.",
-        "Maintain a consistent style: use uniform themes, backgrounds, and color schemes; avoid distracting animations.",
-        "Limit animations: use basic transitions only when necessary; avoid sound effects.",
-        "Manage time: explain each slide in 1–2 minutes; total presentation should fit within allotted time.",
-        "Speak clearly and confidently: avoid reading slides verbatim, make eye contact, and speak slowly.",
-        "Start and end strong: begin with an introduction slide (name, topic, objective) and end with a Thank You or Q&A slide.",
-        "Prepare for questions: anticipate audience queries and prepare clear answers.",
-        "Have a backup plan: save your presentation in multiple formats and locations; keep a PDF version ready.",
-        "Recommended structure: Title Slide, Introduction, Main Points (3–5 slides), Visuals, Conclusion, Thank You/Q&A."
-      ]
-    }
-  ],
+  {
+    "round": "Presentation Tips",
+    "title": "Slide Design",
+    "task": "Keep slides simple and clean: avoid overcrowding, use bullet points, and focus on one idea per slide."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Font Usage",
+    "task": "Use readable fonts and sizes: minimum 24pt, simple fonts like Arial or Calibri, avoid decorative fonts."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Visual Support",
+    "task": "Include visuals: use relevant images, charts, and diagrams to support your explanation."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Styling Consistency",
+    "task": "Maintain a consistent style: use uniform themes, backgrounds, and color schemes; avoid distracting animations."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Animation Control",
+    "task": "Limit animations: use basic transitions only when necessary; avoid sound effects."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Time Management",
+    "task": "Explain each slide in 1–2 minutes; total presentation should fit within allotted time."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Delivery Style",
+    "task": "Speak clearly and confidently: avoid reading slides verbatim, make eye contact, and speak slowly."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Opening & Closing",
+    "task": "Start and end strong: begin with an introduction slide (name, topic, objective) and end with a Thank You or Q&A slide."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Q&A Preparation",
+    "task": "Prepare for questions: anticipate audience queries and prepare clear answers."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Backup Strategy",
+    "task": "Save your presentation in multiple formats and locations; keep a PDF version ready."
+  },
+  {
+    "round": "Presentation Tips",
+    "title": "Recommended Structure",
+    "task": "Title Slide, Introduction, Main Points (3–5 slides), Visuals, Conclusion, Thank You/Q&A."
+  }
+],
   "hosted_by": "Lavkush Gond",
       "room_number": "B-103",
       "mobile_number": "+91-9236683334"
@@ -497,7 +542,55 @@ export const eventdetail={
       "about": "Participants compete in popular games in a LAN or online setup. Strategy, reflexes, and teamwork determine the winners. It’s a high-energy event for gaming enthusiasts. Fair play and sportsmanship are essential.",
       "hosted_by": "Shikhar Srivastava",
       "room_number": "B-305",
-      "mobile_number": "+91-8853404984"
+      "mobile_number": "+91-8853404984",
+      "rounds":[
+  {
+    "round": "Event Details",
+    "title": "LAN & BGMI Gaming Tournament – Nexxplora 2K25",
+    "task": "An open-for-all gaming event featuring high-end LAN gaming and a competitive BGMI mobile tournament. Participants will compete in multiple rounds with winners declared per round based on performance."
+  },
+  {
+    "round": "Objective",
+    "title": "",
+    "task": "Provide a thrilling and inclusive gaming experience for all branches. Promote strategic thinking, reflexes, and team coordination through immersive gameplay."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "The event includes two segments: LAN Gaming and BGMI Tournament. LAN Gaming will be conducted on high-end systems with multiple rounds based on participant count. BGMI Tournament will be held in the gaming hall with participants using their own mobile devices. No simulator players allowed. Players must use their own ISP; network issues will not be grounds for rematch."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Open to all students, no branch restriction. LAN Gaming devices provided. BGMI players must bring their own phones and use personal internet. No external players allowed. No rematches for network issues. No use of simulators. In-game violations or use of disallowed elements will lead to disqualification."
+  },
+  {
+    "round": "Event Format – LAN Gaming",
+    "title": "Round-Based Elimination",
+    "task": "Multiple rounds conducted based on participant count. One winner per round. Game titles and formats will be announced on the day of the event."
+  },
+  {
+    "round": "Event Format – BGMI Tournament",
+    "title": "Mobile Battle Royale",
+    "task": "Players compete in BGMI matches. Performance judged on survival time, number of kills, and fair play. Additional rounds may be added based on turnout."
+  },
+  {
+    "round": "Resources Required",
+    "title": "",
+    "task": "Gaming hall with high-end PCs, mobile charging stations, seating arrangements, volunteers for supervision and score tracking, projector for leaderboard display."
+  },
+  {
+    "round": "Expected Outcomes",
+    "title": "",
+    "task": "Create an engaging and competitive gaming environment, encourage participation across branches, and recognize top gamers in the campus community."
+  },
+  {
+    "round": "Prizes & Recognition",
+    "title": "",
+    "task": "Certificates for all participants, gaming merchandise or vouchers for top performers, leaderboard highlights on college social media or newsletter."
+  },
+  
+]
     },
     "23":{
       "name": "Just a Minute (JAM)",
