@@ -26,9 +26,9 @@ export const eventdetail={
    "2": {
       "name": "Ad-Mad Show",
       "about": "Each team must consist of a minimum of 3 members and a maximum of 5 members.",
-      "hosted_by": "Saurabh Kumar",
+      "hosted_by": "Saniya",
       "room_number": "B-203",
-      "mobile_number": "+91-8528083062",
+      "mobile_number": "+91-9839559944",
        "rounds":[
   {
     "round": "Event Details",
@@ -112,9 +112,9 @@ export const eventdetail={
   }
 ]
     ,
-      "hosted_by": "Akash Babu",
+      "hosted_by": "Akshay",
       "room_number": "B-202",
-      "mobile_number": "+91-8318628430"
+      "mobile_number": "+91-7839158441"
     },
   "17": {
   "name": "Content Writing",
@@ -160,9 +160,9 @@ export const eventdetail={
   }
 ]
 ,
-      "hosted_by": "Ritika",
+      "hosted_by": "Naveen",
       "room_number": "No Room Required",
-      "mobile_number": "+91-not available"
+      "mobile_number": "+91-7499276963"
     },
    "5": {
       
@@ -170,7 +170,7 @@ export const eventdetail={
   "about": "This event is split into two rounds: the first focuses on solving coding problems, and the second on debugging faulty code. Participants must demonstrate logical thinking and attention to detail. Efficiency and accuracy are crucial. It’s a test of real-world programming skills.",
   "hosted_by": "Shivam",
   "room_number": "B-102",
-  "mobile_number": "+91-not avaliable",
+  "mobile_number": "+91-7080393974",
   "rounds": [
     {
       "round": "Round 1",
@@ -205,9 +205,9 @@ export const eventdetail={
     },
   "15":  {
       "name": "Codeless Development / DSA",
-      "hosted_by": "Ishan Kr. Mishra",
+      "hosted_by": "Suraj",
       "room_number": "B-302",
-      "mobile_number": "+91-not available",
+      "mobile_number": "+91-7080393974",
       "rounds":[
   {
     "round": "Event Format – Round 1",
@@ -289,9 +289,9 @@ export const eventdetail={
   "4": {
   "name": "ChatGPT Prompt Challenge",
   "about": "Duration of the event: 1 hour.Participants must create a webpage within the given time.Use ChatGPT with prompt engineering to generate code.Copy-paste allowed only from ChatGPT.Participants may edit ChatGPT-generated code.Pre-written code usage leads to disqualification.",
-  "hosted_by": "Tech Comsnippetsmittee",
+  "hosted_by": "Abhishek",
   "room_number": "B-104",
-  "mobile_number": "+91-not available",
+  "mobile_number": "+91-9555208520",
   "rounds": [
     {
       "round": "Round 1",
@@ -398,9 +398,9 @@ export const eventdetail={
   "24":  {
       "name": "Logo Design",
       "about": "Participants create original logos that represent a brand, idea, or theme. Simplicity, symbolism, and visual appeal are key. The event encourages minimalistic yet meaningful design. It’s a test of branding and artistic intuition.",
-      "hosted_by": "Sarvesh",
+      "hosted_by": "Yogesh",
       "room_number": "B-G04 Lab",
-      "mobile_number": "+91-8840603825",
+      "mobile_number": "+91-9696690157",
             "rounds": [
         {
           "round": "Round 1",
@@ -486,9 +486,9 @@ export const eventdetail={
     "26":{
       "name": "Tech Meme War",
       "about": "his will be a fun and creative event focused on computer science that highlights the lighter side of engineering. Please allow me to include it in the event list.",
-      "hosted_by": "Priyanshu Tripathi",
+      "hosted_by": "Aryan",
       "room_number": "A-Lab 3",
-      "mobile_number": "+91-9026174768",
+      "mobile_number": "+91-6307168822",
       "rounds": [
   {
     "round": "Event Details",
@@ -535,35 +535,16 @@ export const eventdetail={
     "title": "",
     "task": "Originality, entertainment value, relatability to engineering and tech life."
   },
-  {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Projector for showcasing memes, laptops or phones with editing tools, volunteers for timekeeping and coordination, judging panel with tech and creative background."
-  },
-  {
-    "round": "Expected Outcomes",
-    "title": "",
-    "task": "Boost creative expression among tech students, foster community bonding through humor, and highlight the lighter side of engineering life."
-  },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for winners and participants, goodies or vouchers for top 3 teams, featured memes on college social media or newsletter."
-  },
-  {
-    "round": "Timeline",
-    "title": "",
-    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 1.5–2 hours."
-  }
+ 
 ]
 
     },
     "16":{
       "name": "Capture the Flag (CTF)",
       "about": "This event is a cybersecurity event in which participants will attempt to find text strings or short codes called 'flags', that will be secretly hidden in purposefully-vulnerable programs or websites , hosted either or github or shared via a google drive link.",
-      "hosted_by": "Priyanshu Vishwakarma",
+      "hosted_by": "Sanskar",
       "room_number": "B-304",
-      "mobile_number": "+91-9506927633",
+      "mobile_number": "+91-9621792103",
        "rounds": [
         {
           "round": "Rule 1",
@@ -585,9 +566,9 @@ export const eventdetail={
     "10":{
       "name": "Rapid Fire",
       "about": "A fast-paced quiz where participants answer questions in quick succession. Topics range from general knowledge to pop culture and tech. Speed and accuracy are key. It’s a thrilling test of reflexes and recall.The questions will be related to the students field of study i.e. technology and emerging dominance of technology in each field. Note:- Any further amendments will be announced.",
-      "hosted_by": "Mukesh",
+      "hosted_by": "Anshi",
       "room_number": "B-206",
-      "mobile_number": "+91-8009311249",
+      "mobile_number": "+91-7307462804",
       "rounds":[
   {
     "round": "Round 1",
@@ -633,9 +614,9 @@ export const eventdetail={
     "6":   {
       "name": "LAN Gaming / Online Gaming",
       "about": "Participants compete in popular games in a LAN or online setup. Strategy, reflexes, and teamwork determine the winners. It’s a high-energy event for gaming enthusiasts. Fair play and sportsmanship are essential.",
-      "hosted_by": "Shikhar Srivastava",
+      "hosted_by": "Ashutosh",
       "room_number": "B-305",
-      "mobile_number": "+91-8853404984",
+      "mobile_number": "+91-8601527328",
       "rounds":[
   {
     "round": "Event Details",
@@ -666,21 +647,6 @@ export const eventdetail={
     "round": "Event Format – BGMI Tournament",
     "title": "Mobile Battle Royale",
     "task": "Players compete in BGMI matches. Performance judged on survival time, number of kills, and fair play. Additional rounds may be added based on turnout."
-  },
-  {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Gaming hall with high-end PCs, mobile charging stations, seating arrangements, volunteers for supervision and score tracking, projector for leaderboard display."
-  },
-  {
-    "round": "Expected Outcomes",
-    "title": "",
-    "task": "Create an engaging and competitive gaming environment, encourage participation across branches, and recognize top gamers in the campus community."
-  },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for all participants, gaming merchandise or vouchers for top performers, leaderboard highlights on college social media or newsletter."
   },
   
 ]
@@ -756,9 +722,9 @@ export const eventdetail={
     "21":{
       "name": "Pictionary",
       "about": "A team-based drawing and guessing game that tests visual communication. One member draws while others guess the word or phrase. It’s fast, fun, and full of laughter. The better the sketch, the quicker the win.",
-      "hosted_by": "Anshika",
+      "hosted_by": "Gufran",
       "room_number": "B-106",
-      "mobile_number": "+91-8924045356",
+      "mobile_number": "+91-7905226495",
       "rounds":[
   {
     "round": "Event Details",
@@ -790,26 +756,7 @@ export const eventdetail={
     "title": "All-Play Challenge (Conditional)",
     "task": "If needed, each team member draws one chit and teammates guess within 30 seconds per turn. Team with most correct guesses wins."
   },
-  {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Whiteboard or drawing sheets, markers, stopwatch, bowl with chits, volunteers for timekeeping and score tracking."
-  },
-  {
-    "round": "Expected Outcomes",
-    "title": "",
-    "task": "Encourage spontaneous creativity, strengthen team dynamics, and provide a light-hearted break from technical events."
-  },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for all participants, goodies or vouchers for top 3 teams, featured highlights on college social media or newsletter."
-  },
-  {
-    "round": "Timeline",
-    "title": "",
-    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 1.5–2 hours depending on number of teams."
-  }
+  
 ]
 
     },
@@ -818,7 +765,7 @@ export const eventdetail={
       "about": "Participants argue for or against a given topic with structured reasoning. It’s a test of logic, articulation, and rebuttal strength. Confidence and clarity are essential. The best debaters think fast and speak smart.",
       "hosted_by": "Ananya Dixit",
       "room_number": "B-101",
-      "mobile_number": "+91-Not available",
+      "mobile_number": "+91-6388488837",
       "rounds":[
   {
     "round": "Event Format – Round 1",
@@ -847,9 +794,9 @@ export const eventdetail={
     "27":{
       "name": "Data Representation using Dashboard",
       "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
-      "hosted_by": "Sanjana Jaiswal",
+      "hosted_by": "Suraj",
       "room_number": "A-Lab 2",
-      "mobile_number": "+91-8382965648",
+      "mobile_number": "+91-8090417631",
         "rounds": [
         {
           "round": "Participants",
