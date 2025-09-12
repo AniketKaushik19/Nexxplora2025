@@ -127,7 +127,44 @@ export const eventdetail={
   ],
   "hosted_by": "Amulya Dixit",
   "room_number": "Room 105",
-  "mobile_number": "+91-9936025113"
+  "mobile_number": "+91-9936025113",
+  "rounds":[
+  {
+    "round": "Participation",
+    "title": "",
+    "task": "Individual entry only"
+  },
+  {
+    "round": "Topic",
+    "title": "",
+    "task": "Given on the spot / announced beforehand"
+  },
+  {
+    "round": "Word Limit",
+    "title": "",
+    "task": "500–800 words (unless specified)"
+  },
+  {
+    "round": "Time",
+    "title": "",
+    "task": "1–1.5 hours for submission"
+  },
+  {
+    "round": "Originality",
+    "title": "",
+    "task": "Must be original work (no plagiarism)"
+  },
+  {
+    "round": "Language",
+    "title": "",
+    "task": "English (clear, grammatically correct)"
+  },
+  {
+    "round": "Judging Criteria",
+    "title": "",
+    "task": "Creativity, Relevance, Structure, Grammar & Presentation"
+  }
+]
 },
 "8":    {
       "name": "Poster Making",
@@ -787,9 +824,41 @@ export const eventdetail={
     "18":{
       "name": "Group Discussion (GD)",
       "about": "Participants engage in a collaborative discussion on a given topic. It’s about sharing ideas, listening, and building arguments. Leadership and communication are key. It’s a great way to showcase teamwork and thoughtfulness.",
-      "hosted_by": "Abhishek Mishra",
+      "hosted_by": "Ananya",
       "room_number": "B-101",
-      "mobile_number": "+91-not available"
+      "mobile_number": "+91-6388488837",
+      "rounds":[
+  {
+    "round": "Team Composition",
+    "title": "",
+    "task": "Team Size: 6–10 participants"
+  },
+  {
+    "round": "Topic Format",
+    "title": "",
+    "task": "Topic: Given on the spot"
+  },
+  {
+    "round": "Timing",
+    "title": "",
+    "task": "Time: 2–3 mins prep + 10–15 mins discussion"
+  },
+  {
+    "round": "Language",
+    "title": "",
+    "task": "English (unless specified)"
+  },
+  {
+    "round": "Judging Criteria",
+    "title": "",
+    "task": "Content, Communication, Team Spirit, Analysis, Leadership"
+  },
+  {
+    "round": "Conduct",
+    "title": "",
+    "task": "No personal attacks or offensive language"
+  },
+]
     },
     "27":{
       "name": "Data Representation using Dashboard",
