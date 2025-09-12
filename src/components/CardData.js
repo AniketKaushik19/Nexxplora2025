@@ -147,15 +147,6 @@ const Carddata=[
      page:"/techwriting"
     },
     {
-        key:19,
-        check:19,
-        reg:"Registration Closed",
-        name:"Reverse Mentorship",
-        imgsrc:"img/revMentor.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSezJBiyEHjXJ6B71-BQ9VTsYele1ZAmIz1G8y-SKRES1wZ4jQ/viewform?usp=header",
-        page:"/revment"
-    },
-    {
         key:20,
         check:20,
         reg:"Registration Closed",
