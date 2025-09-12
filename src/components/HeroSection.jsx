@@ -37,6 +37,9 @@ const HeroSection = () => {
     <p className="mt-2 text-xl md:text-3xl font-bold text-gradient">
       SEPTEMBER 16-09-2025
     </p>
+   <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5">
+  🎉 Participation in all events is absolutely FREE — no registration fee required. Come showcase your talent, learn, and lead without spending a dime! 🌟
+</marquee>
   </div>
 </section>
   );
