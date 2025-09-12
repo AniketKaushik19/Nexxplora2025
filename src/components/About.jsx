@@ -16,7 +16,7 @@ const About = () => {
                             Nexxplora, the engineer's day event of SR Institute of Management and Technology (SRIMT) Lucknow, is a two-day extravaganza of code, music, art, and intellectual exchange. Rooted in the ancient spirit of Lucknow, it's one of college's largest and most awaited  events.
                         </p>
                         <p>
-                            From electrifying coding rounds, featuring inner enginners to a myriad of competitive events in code, music, quiz, literature, and mock interviews, Nexxplora is a melting pot of talent and creativity.
+                            From electrifying coding rounds, featuring inner engineers to a myriad of competitive events in code, music, quiz, literature, and mock interviews, Nexxplora is a melting pot of talent and creativity.
                         </p>
                         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 text-center pt-6">
                             <div>

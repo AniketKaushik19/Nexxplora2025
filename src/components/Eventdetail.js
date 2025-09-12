@@ -29,23 +29,53 @@ export const eventdetail={
       "hosted_by": "Saurabh Kumar",
       "room_number": "B-203",
       "mobile_number": "+91-8528083062",
-       "rounds": [
-        {
-          "round": "",
-          "title": "Topics",
-          "task": "	Telecommunication,	Globalization and Its Effect,	Social Media,	Global Warming,	Role of Engineering in Human Life"
-        },
-        {
-          "round": "",
-          "title": "",
-          "task": "20 medium-level MCQs – 20 minutes."
-        },
-        {
-          "round": "",
-          "title": "",
-          "task": "20 hard-level MCQs – 15 minutes."
-        }
-      ]
+       "rounds":[
+  {
+    "round": "Event Details",
+    "title": "Ad-Mad Show – Nexxplora 2K25",
+    "task": "A lively and creative event where teams conceptualize and perform mock advertisements for fictional or real products. The goal is to blend humor, marketing flair, and presentation skills."
+  },
+  {
+    "round": "Objective",
+    "title": "",
+    "task": "Encourage creativity, teamwork, and public speaking by simulating real-world advertising challenges in a fun and engaging format."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "Teams of 3 to 5 members will create and present a product advertisement in Hindi, English, or a mix of both. Each act must include a product name, tagline, posters/visuals, and key features. The total performance time is 5–7 minutes including setup."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Team size: 3–5 members. Language: Hindi, English, or mixed. Mandatory elements: Product Name, Tagline, Posters/Visuals, Key Features. Time limit: 5–7 minutes per act. No offensive or inappropriate content allowed."
+  },
+  {
+    "round": "Judging Criteria",
+    "title": "",
+    "task": "Creativity, clarity of message, entertainment value, teamwork, and effective use of visuals and product features."
+  },
+  {
+    "round": "Resources Required",
+    "title": "",
+    "task": "Stage or classroom setup, projector or display for visuals, microphones (if available), volunteers for timekeeping and coordination, judging panel with marketing or creative background."
+  },
+  {
+    "round": "Expected Outcomes",
+    "title": "",
+    "task": "Boost confidence in public speaking, foster creative thinking and collaboration, and provide a platform for humorous and impactful storytelling."
+  },
+  {
+    "round": "Prizes & Recognition",
+    "title": "",
+    "task": "Certificates for all participants, goodies or vouchers for top 3 teams, featured acts on college social media or newsletter."
+  },
+  {
+    "round": "Timeline",
+    "title": "",
+    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 2 hours depending on number of teams."
+  }
+]
     },
    "1": {
       "name": "Web Wonder",
@@ -273,7 +303,7 @@ export const eventdetail={
       "about": "Participants are given an output and must deduce the code logic that produces it. It’s a challenge of analytical thinking and programming intuition. The event rewards clean, efficient solutions. It’s perfect for those who love decoding puzzles.",
       "hosted_by": "Ayush Gupta",
       "room_number": "B-204",
-      "mobile_number": "+91-not avalible",
+      "mobile_number": "+91-7275795052",
       "rounds":[
   {
     "round": "Event Details",
@@ -339,27 +369,72 @@ export const eventdetail={
       "room_number": "A-Lab 3",
       "mobile_number": "+91-9026174768",
       "rounds": [
-        {
-          "round": "Round 1",
-          "title": "Participants: Solo or Team (max 3)",
-          "task": "Round 1 (10 min) – Image-based memes"
-        },
-        {
-          "round": "Round 2",
-          "title": "",
-          "task": "Round 2 (15 min) – GIF-based memes."
-        },
-        {
-          "round": "Round 3",
-          "title": "",
-          "task": "Final Round (20 min) – 15-second meme reel"
-        },
-        {
-          "round": "Topic",
-          "title": "",
-          "task": "Coding errors and bugs Programming lifestyle Subject-related Exams Engineering struggles"
-        },
-      ]
+  {
+    "round": "Event Details",
+    "title": "Tech Meme War – Nexxplora 2K25",
+    "task": "A fun, creative competition where participants craft memes around engineering life and computer science themes. Format includes image, GIF, and short video meme creation."
+  },
+  {
+    "round": "Objective",
+    "title": "",
+    "task": "Celebrate Engineers’ Day with humor and creativity. Encourage participants to express relatable tech experiences through memes while showcasing originality and digital storytelling."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "Participants (solo or in teams of up to 3) will compete across three rounds: image-based memes, GIF-based memes, and a final meme reel. Topics include coding bugs, programming lifestyle, exams, and engineering struggles. All content must be original and manually created using editing tools."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Solo or team participation (max 3). Allowed: Any editing tool, self-made clips, movie cutouts with reference. Not allowed: AI tools like ChatGPT, copied content. All entries must be original and relevant to the given themes."
+  },
+  {
+    "round": "Event Format – Round 1",
+    "title": "Image-Based Memes",
+    "task": "Participants create static memes using images. Time limit: 10 minutes. Judged on humor, originality, and relevance."
+  },
+  {
+    "round": "Event Format – Round 2",
+    "title": "GIF-Based Memes",
+    "task": "Participants create looping memes using GIFs. Time limit: 15 minutes. Judged on creativity, timing, and relatability."
+  },
+  {
+    "round": "Event Format – Final Round",
+    "title": "15-Second Meme Reel",
+    "task": "Participants create short video memes (max 15 seconds). Time limit: 20 minutes. Judged on storytelling, editing, and entertainment value."
+  },
+  {
+    "round": "Topics",
+    "title": "",
+    "task": "Coding errors and bugs, programming lifestyle, subject-related humor, exam stress, and general engineering struggles."
+  },
+  {
+    "round": "Judging Criteria",
+    "title": "",
+    "task": "Originality, entertainment value, relatability to engineering and tech life."
+  },
+  {
+    "round": "Resources Required",
+    "title": "",
+    "task": "Projector for showcasing memes, laptops or phones with editing tools, volunteers for timekeeping and coordination, judging panel with tech and creative background."
+  },
+  {
+    "round": "Expected Outcomes",
+    "title": "",
+    "task": "Boost creative expression among tech students, foster community bonding through humor, and highlight the lighter side of engineering life."
+  },
+  {
+    "round": "Prizes & Recognition",
+    "title": "",
+    "task": "Certificates for winners and participants, goodies or vouchers for top 3 teams, featured memes on college social media or newsletter."
+  },
+  {
+    "round": "Timeline",
+    "title": "",
+    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 1.5–2 hours."
+  }
+]
 
     },
     "16":{
@@ -516,5 +591,79 @@ export const eventdetail={
 
         }
       ]
+    },
+      "28":{
+      "name": "Tech Treasure",
+      "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
+      "hosted_by": "Sanjana Jaiswal",
+      "room_number": "A-Lab 2",
+      "mobile_number": "+91-8382965648",
+        "rounds":[
+  {
+    "round": "Event Details",
+    "title": "Puzzle Pursuit – Nexxplora 2K25",
+    "task": "A multi-level logic and brain game featuring puzzles, riddles, and technical questions. Participants progress through increasingly challenging rounds designed to test analytical thinking and problem-solving skills."
+  },
+  {
+    "round": "Objective",
+    "title": "",
+    "task": "Sharpen logical reasoning, promote lateral thinking, and engage participants in a competitive yet fun mental challenge."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "Participants will face five levels of increasing difficulty, each packed with puzzles, riddles, and technical questions. The event is designed to challenge both speed and depth of thought. Use of smart devices and calculators is allowed. Participants must carry their own pen and rough sheet."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Individual participation only. Smart devices and calculators allowed. Participants must bring their own pen and rough sheet. No external help or internet browsing during the challenge."
+  },
+  {
+    "round": "Event Format – Level 1",
+    "title": "Starter Pack (Easy)",
+    "task": "Basic puzzles and warm-up questions to get participants into the groove. Focus on speed and accuracy."
+  },
+  {
+    "round": "Event Format – Level 2",
+    "title": "Brain Teaser (Medium)",
+    "task": "Moderately challenging riddles and logic puzzles requiring quick thinking and pattern recognition."
+  },
+  {
+    "round": "Event Format – Level 3",
+    "title": "Mind Bender (Moderate)",
+    "task": "Multi-step problems and technical questions that demand deeper analysis and structured reasoning."
+  },
+  {
+    "round": "Event Format – Level 4",
+    "title": "Genius Mode (Hard)",
+    "task": "Complex puzzles and riddles with hidden twists. Designed to push participants’ problem-solving limits."
+  },
+  {
+    "round": "Event Format – Final Level",
+    "title": "Mastermind Challenge (Advanced)",
+    "task": "The ultimate test of logic, speed, and creativity. Only top scorers reach this level. Winner determined by cumulative performance."
+  },
+  {
+    "round": "Resources Required",
+    "title": "",
+    "task": "Printed question sheets, projector for instructions and leaderboard, stopwatch or timer, volunteers for supervision and scoring."
+  },
+  {
+    "round": "Expected Outcomes",
+    "title": "",
+    "task": "Enhance analytical and logical thinking, promote healthy competition, and identify top problem-solvers for future tech events."
+  },
+  {
+    "round": "Prizes & Recognition",
+    "title": "",
+    "task": "Certificates for all participants, goodies or vouchers for top 3 performers, recognition in college newsletter or social media."
+  },
+  {
+    "round": "Timeline",
+    "title": "",
+    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 2–2.5 hours."
+  }
+]
     }
 }
