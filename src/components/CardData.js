@@ -114,7 +114,7 @@ const Carddata=[
         key:15,
         check:15,
     reg:"Registration Closed",
-     name:"Codeless development",
+     name:"Codeless development / DSA",
      imgsrc:"img/dsa.avif",
      link:"https://docs.google.com/forms/d/e/1FAIpQLScVxXdngWTRh5mDMa49bGWkeBmk4BoKl_VYtBIOtFTw2byAUQ/viewform?usp=header",
      page:"/dsa"
@@ -152,7 +152,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Hackathon",
         imgsrc:"img/hackathon.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSc17lKDBB0THWME46kQX5qpip6WjPrGqmSquuk8fJeIgu6cAA/viewform?usp=sharing&ouid=101332963653483640625",
+        link:"https://chat.whatsapp.com/I4baK68OXVE7cR58gHneXi",
         page:"/revment"
     },
     {
