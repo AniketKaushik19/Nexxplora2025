@@ -19,12 +19,12 @@ const EventCard = ({name,link,imgsrc,id}) => {
                 <div className='flex  justify-center'>
 
                 <NavLink to={link}>
-                <button className='btn cursor-pointer flex px-3 bg-purple-600 rounded-md border p-2  relative z-50 my-3 hover:bg-amber-700 w-max '>
+                <button className='btn cursor-pointer flex px-3 bg-purple-600 rounded-md  p-2  shadow-md shadow-purple-900 border-0  relative z-50 my-3 hover:bg-amber-600 hover:shadow-amber-800  w-max '>
                   Register Now
                   </button>
                   </NavLink>
                 <NavLink to={`/${id}`}>
-                <button className='btn cursor-pointer flex px-3 bg-blue-500 rounded-md border p-2  mx-10 relative z-50 my-3 hover:bg-amber-700'>
+                <button className='btn cursor-pointer flex px-3 bg-blue-500 rounded-md border-0 p-2 shadow-md shadow-blue-800  mx-10 relative z-50 my-3 hover:bg-amber-600  hover:shadow-amber-800'>
                    View
                   </button>
                   </NavLink>

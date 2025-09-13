@@ -329,17 +329,73 @@ export const eventdetail={
   "hosted_by": "Abhishek",
   "room_number": "B-104",
   "mobile_number": "+91-9555208520",
-  "rounds": [
-    {
-      "round": "Round 1",
-      "title": "Prompt Engineering",
-      "task": "Craft effective prompts to generate webpage components using ChatGPT.Focus on clarity, specificity, and creativity."
-    },
-    {
-      "round": "Round 2",
-      "title": "Webpage Assembly",
-      "task": "Assemble the webpage using only ChatGPT-generated code.Editing is allowed, but no pre-written code must be used."
-    }
+  "rounds": 
+   [
+  {
+    "round": "Rules & Requirements – Prompt Engineering Competition",
+    "title": "",
+    "task": "1. Open to all students of the institute."
+  },
+  {
+    "title": "",
+    "task": "2. Individual participation only (no teams)."
+  },
+  {
+    "title": "",
+    "task": "3. Participants must bring their own mobile and for last round lab will be provided."
+  },
+  {
+    "title": "",
+    "task": "4. Internet access will be provided only in lab for last round."
+  },
+  {
+    "title": "",
+    "task": "5. Registration via Google Form is mandatory."
+  },
+  {
+    "title": "",
+    "task": "1. Original Prompts Only – All prompts must be created by the participant during the competition (no copy-paste from internet)."
+  },
+  {
+    "title": "",
+    "task": "2. Rounds & Elimination – The competition will have 3 rounds"
+  },
+  {
+    "title": "",
+    "task": "Round 1: Creative Text Generation thinking [All registered participants]. In this round all participants will be given the weak or worst prompt and they have to create a good prompt using their creative thinking."
+  },
+  {
+    "title": "",
+    "task": "Round 2: Creative Image Generation [Top scorers from Round 1 qualify]. In this round qualified participants will be provided random words and they have to generate image using those words."
+  },
+  {
+    "title": "",
+    "task": "Round 3: Vibe Coding/Web Development [Finalists compete for Winner]. In this round final participants will be provided lab and they have to create a website on given topic using chat gpt or other LLM models."
+  },
+  {
+    "title": "",
+    "task": "3. Time Limit – Each round will have a fixed time. Late submission will not be accepted."
+  },
+  {
+    "title": "",
+    "task": "4. AI Tools Allowed – Participants can use ChatGPT (free/paid), Gemini, Perplexity, or any other AI tool permitted."
+  },
+  {
+    "title": "",
+    "task": "5. Prompt Submission Format – For fairness, participants must submit: a. The exact prompt they gave. b. The output received from the AI."
+  },
+  {
+    "title": "",
+    "task": "6. Judging Criteria – Prompts will be judged on: a. Creativity & Innovation. b. Clarity of Instructions. c. Effectiveness of Output."
+  },
+  {
+    "title": "",
+    "task": "7. Fair Play – Any plagiarism, offensive content, or use of pre-prepared prompts leads to disqualification."
+  },
+  {
+    "title": "",
+    "task": "8. Decision Finality – Judges’ decision will be final and binding."
+  }
   ]
 },
    "11": {
@@ -499,25 +555,10 @@ export const eventdetail={
     "task": "Problem 1: Output '1 4 9 16 25' – write a program to produce it. Problem 2: Output 'ABCD\nBCDE\nCDEF\nDEFG' – find the logic and code it. Problem 3: Output '2 6 12 20 30' – hint: n*(n+1)."
   },
   {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Computer lab with IDEs, compiler support for C, C++, Java, Python, projector for instructions and leaderboard, volunteers for supervision and doubt handling."
-  },
-  {
     "round": "Expected Outcomes",
     "title": "",
     "task": "Improve logical thinking and debugging skills, gain exposure to competitive coding, and encourage top performers toward hackathons and coding contests like CodeChef, HackerRank, and GATE coding sections."
   },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for winners and participants, cash prizes or goodies for top 3, and recognition in college newsletter or website."
-  },
-  {
-    "round": "Timeline",
-    "title": "",
-    "task": "Proposal submission and approval in 1 week, promotion and registrations in 2 weeks, event day lasting 2–3 hours."
-  }
 ]
     },
     "26":{
@@ -715,11 +756,6 @@ export const eventdetail={
     "title": "Scoring norms",
     "task": "Judging is based on JAM norms for each round, with points given for pointing out errors, speaking correctly, and being the last person speaking."
   },
-  {
-    "round": "Rules Summary",
-    "title": "Core JAM rules",
-    "task": "There are three rules: JAM God is god, JAM God is god, and JAM God is god!"
-  }
 ]
     },
     "22":{
@@ -942,27 +978,6 @@ export const eventdetail={
     "round": "Event Format – Final Level",
     "title": "Mastermind Challenge (Advanced)",
     "task": "The ultimate test of logic, speed, and creativity. Only top scorers reach this level. Winner determined by cumulative performance."
-  },
-  {
-    "round": "Resources Required",
-    "title": "",
-    "task": "Printed question sheets, projector for instructions and leaderboard, stopwatch or timer, volunteers for supervision and scoring."
-  },
-  {
-    "round": "Expected Outcomes",
-    "title": "",
-    "task": "Enhance analytical and logical thinking, promote healthy competition, and identify top problem-solvers for future tech events."
-  },
-  {
-    "round": "Prizes & Recognition",
-    "title": "",
-    "task": "Certificates for all participants, goodies or vouchers for top 3 performers, recognition in college newsletter or social media."
-  },
-  {
-    "round": "Timeline",
-    "title": "",
-    "task": "Proposal approval in 1 week, promotion and registration in 2 weeks, event duration: approx. 2–2.5 hours."
-  }
-]
+  },]
     }
 }
