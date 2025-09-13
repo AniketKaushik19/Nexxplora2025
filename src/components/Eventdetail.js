@@ -204,9 +204,9 @@ export const eventdetail={
       
   "name": "Coding & Debugging",
   "about": "This event is split into two rounds: the first focuses on solving coding problems, and the second on debugging faulty code. Participants must demonstrate logical thinking and attention to detail. Efficiency and accuracy are crucial. It’s a test of real-world programming skills.",
-  "hosted_by": "Shivam",
+  "hosted_by": "Kanhaiya",
   "room_number": "B-102",
-  "mobile_number": "+91-7080393974",
+  "mobile_number": "+91-9006894885",
   "rounds": [
     {
       "round": "Round 1",
