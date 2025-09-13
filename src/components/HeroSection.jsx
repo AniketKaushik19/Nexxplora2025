@@ -47,9 +47,15 @@ const HeroSection = () => {
   target="_blank"
   className="text-[#e6efe9] font-bold no-underline "
 >
-  💬 Have a question about this website? <span className='text-xl rounded-xl border p-1 bg-blue-300 text-black'>Connect with us!</span>
+  💬 Have a question about this website? <div className='w-50 mx-auto text-xl rounded-xl border p-1 bg-blue-300 text-black'>Connect with us!</div>
 </NavLink><br/>
- <button className='text-2xl border my-4 rounded-2xl bg-amber-600 p-4 font-bold hover:cursor-pointer'> Join Community</button>
+ <NavLink
+  to="https://chat.whatsapp.com/HdrAyPfWWzHHDERjAJIOMz"
+  target="_blank"
+  className="text-[#e6efe9] font-bold no-underline "
+>
+ <button className='text-2xl border my-4 rounded-2xl bg-amber-600 p-4 font-bold hover:cursor-pointer z-50'> Join Community</button>
+</NavLink><br/>
   </div>
 </section>
   );
