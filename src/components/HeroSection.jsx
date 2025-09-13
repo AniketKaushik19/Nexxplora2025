@@ -42,13 +42,14 @@ const HeroSection = () => {
    <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5 my-10">
   🎉 Participation in all events is absolutely FREE — no registration fee required. Come showcase your talent, learn, and lead without spending a dime! 🌟
 </marquee>
- <a
-  href="https://wa.me/7905093236"
+ <NavLink
+  to="https://wa.me/7905093236"
   target="_blank"
-  className="text-[#e6efe9] font-bold no-underline hover:underline "
+  className="text-[#e6efe9] font-bold no-underline "
 >
-  💬 Have a question about this website? Connect with us!
-</a>
+  💬 Have a question about this website? <span className='text-xl rounded-xl border p-1 bg-blue-300 text-black'>Connect with us!</span>
+</NavLink><br/>
+ <button className='text-2xl border my-4 rounded-2xl bg-amber-600 p-4 font-bold hover:cursor-pointer'> Join Community</button>
   </div>
 </section>
   );
