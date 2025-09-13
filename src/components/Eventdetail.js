@@ -763,38 +763,57 @@ export const eventdetail={
       "hosted_by": "Ashutosh",
       "room_number": "B-305",
       "mobile_number": "+91-8601527328",
-      "rounds":[
+     "rounds": [
   {
-    "round": "Event Details",
-    "title": "LAN & BGMI Gaming Tournament – Nexxplora 2K25",
-    "task": "An open-for-all gaming event featuring high-end LAN gaming and a competitive BGMI mobile tournament. Participants will compete in multiple rounds with winners declared per round based on performance."
-  },
-  {
-    "round": "Objective",
+    "round": "Rules & Regulations – 1. Eligibility & Registration",
     "title": "",
-    "task": "Provide a thrilling and inclusive gaming experience for all branches. Promote strategic thinking, reflexes, and team coordination through immersive gameplay."
+    "task": "Each team must register by the given deadline with correct and verifiable details: team name, player names, in‑game IDs, Branch , contact info. A team consists of 4 players. Once the match has begun, no changes are permitted (unless noted). Each player may register for only one team. Players cannot switch teams mid‑tournament. Participants must be students of the college (or satisfy whatever eligibility you define)."
   },
   {
-    "round": "Event Description",
+    "round": "Rules & Regulations – 2. Devices & Technical Requirements",
     "title": "",
-    "task": "The event includes two segments: LAN Gaming and BGMI Tournament. LAN Gaming will be conducted on high-end systems with multiple rounds based on participant count. BGMI Tournament will be held in the gaming hall with participants using their own mobile devices. No simulator players allowed. Players must use their own ISP; network issues will not be grounds for rematch."
+    "task": "Only mobile devices (Android/iOS) are allowed. Emulators, external adapters (keyboard/mouse), and any third‑party software giving unfair advantages are strictly prohibited. Players are responsible for their own devices, chargers, power banks, headsets, stable network etc. The organizers do not provide personal devices or peripherals unless explicitly stated. Game version must be up‑to‑date for all participants. All patches/updates should be installed before tournament start."
   },
   {
-    "round": "Rules & Regulations",
+    "round": "Rules & Regulations – 3. Match Format & Schedule",
     "title": "",
-    "task": "Open to all students, no branch restriction. LAN Gaming devices provided. BGMI players must bring their own phones and use personal internet. No external players allowed. No rematches for network issues. No use of simulators. In-game violations or use of disallowed elements will lead to disqualification."
+    "task": "Format: Classic mode, squad (4/3), TPP / FPP as per tournament announcement. Map pool will be (Erangel {no theme}). Matches will be conducted in stages: Qualifiers/knockout → Finals"
   },
   {
-    "round": "Event Format – LAN Gaming",
-    "title": "Round-Based Elimination",
-    "task": "Multiple rounds conducted based on participant count. One winner per round. Game titles and formats will be announced on the day of the event."
+    "round": "Rules & Regulations – 4. Scoring & Tie‑Breaker",
+    "title": "",
+    "task": "Points awarded for placement and kills. a. 1st place = 10 points, 2nd place = 6 points, 3rd place = 5 points, 4th place = 4 points, 5th place = 3 points, 6th place = 2 points, 7th and rest place = 1 point. b. Each kill = 1 point. Final ranking based on total points across the match. Tie‑breakers (if two or more teams are tied) determined by, in order: a. Number of higher placements (1st , 2nd etc.) b. Total kills c. Highest placement in the match d. If still tied, survival time or average rank etc."
   },
   {
-    "round": "Event Format – BGMI Tournament",
-    "title": "Mobile Battle Royale",
-    "task": "Players compete in BGMI matches. Performance judged on survival time, number of kills, and fair play. Additional rounds may be added based on turnout."
+    "round": "Rules & Regulations – 5. Rules of Conduct & Fair Play",
+    "title": "",
+    "task": "No cheating or hacking: using aimbots, wallhacks, ESP, trigger bots, or modded APKs is forbidden. Violation = disqualification/strict action by Faculty. No exploits or glitches: abusing game bugs to gain unfair advantage is prohibited. No teaming with opponents outside one’s squad. (No multi‑team alliances). Only in‑game voice / chat is allowed after match start. Pre‑match communication is allowed but must be outside the game. Players must not behave in an abusive or disrespectful manner towards other players, organizers, referees. Offensive language, harassment, etc. can lead to penalties or disqualification."
   },
-  
+  {
+    "round": "Rules & Regulations – 6. Timings, Room / Lobby Rules",
+    "title": "",
+    "task": "Teams must join the game lobby / room by the specified start time (10‑15 minutes before). Late teams may be disqualified or given zero points for that match. Room ID and password will be communicated before the match starts (time to be specified). Waiting period for match start: 5‑10 minutes after scheduled time. After that, match may begin without absent teams."
+  },
+  {
+    "round": "Rules & Regulations – 7. Disconnection, Lag & Technical Issues",
+    "title": "",
+    "task": "Internet / device connectivity issues are the responsibility of the player. Matches generally will not be restarted or paused for individual disconnections unless the issue is widespread or at the organizer’s discretion. In case of server issues or other technical failures on organizer side, matches may be rescheduled/restarted."
+  },
+  {
+    "round": "Rules & Regulations – 8. Prizes & Payment",
+    "title": "",
+    "task": "Prize breakdown (winner, runner up) must be declared in advance. Prize distribution method (cash, certificates and trophies) and timeline should be informed."
+  },
+  {
+    "round": "Rules & Regulations – 9. Penalties & Disqualification",
+    "title": "",
+    "task": "Violation of any rule may lead to penalties: warnings, point deduction, or disqualification. If a player is found using cheat / hack, the entire team may be disqualified. If a team fails to use registered IDs, or uses unregistered players, penalties apply. Organisers reserve the right to refuse or cancel registration without stating a reason."
+  },
+  {
+    "round": "Rules & Regulations – 10. Miscellaneous",
+    "title": "",
+    "task": "Organisers have final decision in all disputes; their decision is binding. Rules may be updated or modified by organisers; changes should be communicated before next match or stage. Players should be ready ahead of time; keep devices charged, have stable internet etc. All participants accept rules by participating."
+  }
 ]
     },
     "23":{
@@ -831,7 +850,7 @@ export const eventdetail={
       "about": "Participants present innovative business ideas with market potential. The pitch includes problem identification, solution, and feasibility. Creativity and clarity are key. It’s a platform to turn entrepreneurial dreams into reality.",
       "hosted_by": "Neeleshwar",
       "room_number": "B-205",
-      "mobile_number": "+91-8545063992",
+      "mobile_number": "+91-8545063902",
       "rounds":[
   {
     "round": "Team Composition",
