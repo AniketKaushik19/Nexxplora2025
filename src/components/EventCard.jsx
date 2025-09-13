@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink, useNavigate } from 'react-router-dom'
 import Register from './Register';
-
+import { FaWhatsapp } from 'react-icons/fa';
 const EventCard = ({name,link,imgsrc,id}) => {
     const navigator=useNavigate();
   return (
@@ -16,7 +16,7 @@ const EventCard = ({name,link,imgsrc,id}) => {
                </div>
                 <h3 className="text-2xl font-bold text-white">{name}</h3>
                 {/* <p className="text-gray-400 mt-2">{}</p> */}
-                <div className='flex  justify-center'>
+                <div className='flex  justify-center items-center'>
 
                 <NavLink to={link}>
                 <button className='btn cursor-pointer flex px-3 bg-purple-600 rounded-md  p-2  shadow-md shadow-purple-900 border-0  relative z-50 my-3 hover:bg-amber-600 hover:shadow-amber-800  w-max '>
@@ -24,10 +24,17 @@ const EventCard = ({name,link,imgsrc,id}) => {
                   </button>
                   </NavLink>
                 <NavLink to={`/${id}`}>
-                <button className='btn cursor-pointer flex px-3 bg-blue-500 rounded-md border-0 p-2 shadow-md shadow-blue-800  mx-10 relative z-50 my-3 hover:bg-amber-600  hover:shadow-amber-800'>
+                <button className='btn cursor-pointer flex px-3 bg-blue-500 rounded-md border-0 p-2 shadow-md shadow-blue-800  mx-2 relative z-50 my-3 hover:bg-amber-600  hover:shadow-amber-800'>
                    View
                   </button>
                   </NavLink>
+                  <NavLink
+  to="https://chat.whatsapp.com/HdrAyPfWWzHHDERjAJIOMz" // Replace with your number
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <FaWhatsapp className="w-10 text-5xl bg-green-500 hover:bg-green-600 text-white  p-1 rounded-md shadow-lg  hover:cursor-pointer z-80 relative" />
+</NavLink>
                 </div>
             </div>
         </div>
