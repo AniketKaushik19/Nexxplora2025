@@ -42,6 +42,9 @@ const HeroSection = () => {
    <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5 my-10">
   🎉 Participation in all events is absolutely FREE — no registration fee required. Come showcase your talent, learn, and lead without spending a dime! 🌟
 </marquee>
+   <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5 my-10">
+    <strong>!!!Some Events are organize at 15 Sep -</strong> SR got Talent , Mock Interview , Poster Making (Kindly check information at event description)
+</marquee>
  <NavLink
   to="https://wa.me/7905093236"
   target="_blank"
@@ -56,6 +59,7 @@ const HeroSection = () => {
 >
  <button className='text-2xl border my-4 rounded-2xl bg-amber-600 p-4 font-bold hover:cursor-pointer z-50'> Join Community</button>
 </NavLink><br/>
+ <a href="#events"><button className='text-xl border my-4 rounded-2xl bg-purple-600 p-2 font-bold hover:cursor-pointer z-50'> Register in Events 👇 </button></a>
   </div>
 </section>
   );
