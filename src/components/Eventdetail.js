@@ -221,12 +221,12 @@ export const eventdetail={
   {
     "round": "Word Limit",
     "title": "",
-    "task": "500–800 words (unless specified)"
+    "task": "Word limit -  400 - 500"
   },
   {
     "round": "Time",
     "title": "",
-    "task": "1–1.5 hours for submission"
+    "task": "1 hours for submission"
   },
   {
     "round": "Originality",
@@ -404,9 +404,9 @@ export const eventdetail={
   "4": {
   "name": "ChatGPT Prompt Challenge",
   "about": "Duration of the event: 1 hour.Participants must create a webpage within the given time.Use ChatGPT with prompt engineering to generate code.Copy-paste allowed only from ChatGPT.Participants may edit ChatGPT-generated code.Pre-written code usage leads to disqualification.",
-  "hosted_by": "Abhishek",
+  "hosted_by": "Ajeet Pandey",
   "room_number": "B-104",
-  "mobile_number": "+91-9555208520",
+  "mobile_number": "+91-9919749808",
   "rounds": 
    [
   {
