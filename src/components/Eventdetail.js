@@ -173,8 +173,7 @@ export const eventdetail={
   {
     "round": "Topics",
     "title": "",
-    "task": " Globalization and Its Effect  Social Media  Global Warming  Role of Engineering in Human Life  Telecommunication"
-  },
+"task":"Sustainable Development through innovative Technology"  },
   {
     "round": "Overview",
     "title": "Poster Design Guidelines",
@@ -193,7 +192,7 @@ export const eventdetail={
   {
     "round": "Overview",
     "title": "Submission Instructions",
-    "task": "Participants must prepare their posters at home and bring them safely on 16th Sept."
+    "task": "Participants must prepare their posters at home and bring them safely on 15th Sept."
   }
 ]
 ,
@@ -569,16 +568,6 @@ export const eventdetail={
       "mobile_number": "+91-6307168822",
       "rounds": [
   {
-    "round": "Event Details",
-    "title": "Tech Meme War – Nexxplora 2K25",
-    "task": "A fun, creative competition where participants craft memes around engineering life and computer science themes. Format includes image, GIF, and short video meme creation."
-  },
-  {
-    "round": "Objective",
-    "title": "",
-    "task": "Celebrate Engineers’ Day with humor and creativity. Encourage participants to express relatable tech experiences through memes while showcasing originality and digital storytelling."
-  },
-  {
     "round": "Event Description",
     "title": "",
     "task": "Participants (solo or in teams of up to 3) will compete across three rounds: image-based memes, GIF-based memes, and a final meme reel. Topics include coding bugs, programming lifestyle, exams, and engineering struggles. All content must be original and manually created using editing tools."
@@ -934,16 +923,6 @@ export const eventdetail={
       "room_number": "A-Lab 2",
       "mobile_number": "+91-8382965648",
         "rounds":[
-  {
-    "round": "Event Details",
-    "title": "Puzzle Pursuit – Nexxplora 2K25",
-    "task": "A multi-level logic and brain game featuring puzzles, riddles, and technical questions. Participants progress through increasingly challenging rounds designed to test analytical thinking and problem-solving skills."
-  },
-  {
-    "round": "Objective",
-    "title": "",
-    "task": "Sharpen logical reasoning, promote lateral thinking, and engage participants in a competitive yet fun mental challenge."
-  },
   {
     "round": "Event Description",
     "title": "",

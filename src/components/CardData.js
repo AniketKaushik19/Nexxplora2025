@@ -180,7 +180,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Just a Minute",
         imgsrc:"img/jam.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSeZsk8MXbtFcuwPG7fgZdlHAV3Nm8TioawxB40vIkC7wz04bg/viewform?usp=sharing&ouid=101332963653483640625",
+        link:"https://docs.google.com/forms/d/e/1FAIpQLSePT9ap0afHV7TC3rv3Ru8V0_OTvfzUQoamI2ddLbuveMQzlg/viewform?usp=header",
         page:"/revment"
     },
     {
