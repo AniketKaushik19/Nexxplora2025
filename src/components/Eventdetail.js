@@ -92,26 +92,105 @@ export const eventdetail={
   "about": "Participants undergo a simulated interview experience guided by real mentors. The session helps refine communication, confidence, and professional etiquette. Feedback is provided to help candidates improve their performance. It’s a valuable opportunity to prepare for real-world job interviews.",
   "rounds":[
   {
-    "round": "Round-1 & 2",
-    "task": "Round 1 will be on 15 Sept. and the shortlisted students from round 1 will go for Round 2 which is to be held on 16th Sept. The final students selected in Round 2 would be the winners."
+    "round": "Event Title",
+    "title": "",
+    "task": "\"Mock Interview Challenge 2025\" (Tagline: \"Practice Today, Succeed Tomorrow!\")"
   },
   {
-    "round": "Instructions",
-    "title": "Resume Requirement",
-    "task": "Students must be dressed in college uniform or formal attire. Kindly carry a copy of your updated resume."
+    "round": "Objective",
+    "title": "",
+    "task": "Increase familiarity with interview format."
   },
   {
-    "round": "Instructions",
-    "title": "Self-Introduction",
-    "task": "Be prepared with a self-introduction."
+    "title": "",
+    "task": "Boost confidence among students."
   },
   {
-    "round": "Instructions",
-    "title": "Skill Highlighting",
-    "task": "Your resume should clearly highlight the skills you are confident in."
+    "title": "",
+    "task": "Provide constructive feedback for improvement."
+  },
+  {
+    "title": "",
+    "task": "Enhance time management during interviews."
+  },
+  {
+    "title": "",
+    "task": "Simulate a realistic interview situation."
+  },
+  {
+    "round": "Event Description",
+    "title": "",
+    "task": "A mock interview is a practice interview designed to simulate the real job interview as closely as possible. Participants will face both technical and HR questions, helping them to prepare for actual placement drives and professional interviews."
+  },
+  {
+    "round": "Rules & Regulations",
+    "title": "",
+    "task": "Bring an updated copy of your resume."
+  },
+  {
+    "title": "",
+    "task": "Dress professionally:\n- Boys: College uniform / Pant-shirt.\n- Girls: College uniform / Pant-shirt / Salwar suit / Saree."
+  },
+  {
+    "title": "",
+    "task": "Arrive on time."
+  },
+  {
+    "title": "",
+    "task": "Prepare questions well (both Technical – pertaining to branch and HR)."
+  },
+  {
+    "title": "",
+    "task": "Practice good body language."
+  },
+  {
+    "title": "",
+    "task": "Be open to feedback."
+  },
+  {
+    "round": "Event Format",
+    "title": "Round 1: Preliminary Interview",
+    "task": "Short screening round (10–15 mins). Focus: Resume discussion + basic HR questions. Selected participants qualify for final round."
+  },
+  {
+    "title": "Round 2: Final Interview",
+    "task": "Detailed mock interview (25–30 mins). Includes: Technical questions, HR questions, stress test, and problem-solving. Feedback session provided after the interview."
+  },
+  {
+    "round": "Judging Basis",
+    "title": "",
+    "task": "Communication skills."
+  },
+  {
+    "title": "",
+    "task": "Technical knowledge."
+  },
+  {
+    "title": "",
+    "task": "Confidence level."
+  },
+  {
+    "title": "",
+    "task": "Body language & etiquette."
+  },
+  {
+    "title": "",
+    "task": "Time management."
+  },
+  {
+    "round": "Outcome",
+    "title": "",
+    "task": "Each participant will receive personalized feedback."
+  },
+  {
+    "title": "",
+    "task": "Helps students to identify strengths and areas of improvement."
+  },
+  {
+    "title": "",
+    "task": "Builds confidence for real campus placements and job interviews."
   }
-]
-    ,
+]  ,
       "hosted_by": "Akshay",
       "room_number": "B-202",
       "mobile_number": "+91-7839158441"
@@ -721,9 +800,9 @@ export const eventdetail={
     "23":{
       "name": "Just a Minute (JAM)",
       "about": "Participants speak on a given topic for one minute without hesitation, repetition, or deviation. It’s a test of fluency, spontaneity, and confidence. The challenge lies in staying sharp and articulate. It’s fun, fast, and fiercely competitive.",
-      "hosted_by": "Sandeep",
+      "hosted_by": "Naveen",
       "room_number": "B-106",
-      "mobile_number": "+91-not available",
+      "mobile_number": "+91-7499276963",
       "rounds":[
   {
     "round": "Round 1",
