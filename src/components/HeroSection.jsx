@@ -1,5 +1,7 @@
 import ScrollReveal from 'scrollreveal';
 import { useEffect } from 'react';
+import { MessageCircle } from 'lucide-react';
+import { NavLink } from 'react-router-dom';
 
 const HeroSection = () => {
   useEffect(() => {
@@ -37,9 +39,16 @@ const HeroSection = () => {
     <p className="mt-2 text-xl md:text-3xl font-bold text-gradient">
       SEPTEMBER 16-09-2025
     </p>
-   <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5">
+   <marquee behavior="scroll" direction="left" scrollamount="8" className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5 my-10">
   🎉 Participation in all events is absolutely FREE — no registration fee required. Come showcase your talent, learn, and lead without spending a dime! 🌟
 </marquee>
+ <a
+  href="https://wa.me/7905093236"
+  target="_blank"
+  className="text-[#e6efe9] font-bold no-underline hover:underline "
+>
+  💬 Have a question about this website? Connect with us!
+</a>
   </div>
 </section>
   );

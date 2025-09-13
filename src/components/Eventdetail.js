@@ -1,7 +1,7 @@
 export const eventdetail={
     "3":{
       "name": "Reasoning, Aptitude & GK Test",
-      "about": "•  The competition will be conducted in 3 rounds:All participants must carry their own pen; rough sheets will be provided at the moment. The use of smart devices, or calculators during the test is strictly prohibited.",
+      "about": "•The competition will be conducted in 3 rounds. The 1st and 2nd round will be held on 15 Sept. Reporting time is 11:30 a.m. Event will start at 12:00 pm sharp. All participants must carry their own pen; rough sheets will be provided at the moment. The use of smart devices, or calculators during the test is strictly prohibited.",
       "hosted_by": "Abbas Ali",
       "room_number": "B-301",
       "mobile_number": "+91-8948024311",
@@ -27,7 +27,7 @@ export const eventdetail={
       "name": "Ad-Mad Show",
       "about": "Each team must consist of a minimum of 3 members and a maximum of 5 members.",
       "hosted_by": "Saniya",
-      "room_number": "B-203",
+      "room_number": "B-106",
       "mobile_number": "+91-9839559944",
        "rounds":[
   {
@@ -92,13 +92,13 @@ export const eventdetail={
   "about": "Participants undergo a simulated interview experience guided by real mentors. The session helps refine communication, confidence, and professional etiquette. Feedback is provided to help candidates improve their performance. It’s a valuable opportunity to prepare for real-world job interviews.",
   "rounds":[
   {
-    "round": "Instructions",
-    "task": "Students must be dressed in college uniform or formal attire."
+    "round": "Round-1 & 2",
+    "task": "Round 1 will be on 15 Sept. and the shortlisted students from round 1 will go for Round 2 which is to be held on 16th Sept. The final students selected in Round 2 would be the winners."
   },
   {
     "round": "Instructions",
     "title": "Resume Requirement",
-    "task": "Kindly carry a copy of your updated resume."
+    "task": "Students must be dressed in college uniform or formal attire. Kindly carry a copy of your updated resume."
   },
   {
     "round": "Instructions",
@@ -399,7 +399,7 @@ export const eventdetail={
 },
    "11": {
       "name": "SR Got Talent",
-      "about": "A vibrant showcase of talents including singing, dancing, shayari, and open mic performances. Participants express their unique skills in front of a live audience. The event celebrates creativity, confidence, and stage presence. It’s all about letting your passion shine.",
+      "about": "A vibrant showcase of talents including singing, dancing, shayari, and open mic performances. Participants express their unique skills in front of a live audience. The event celebrates creativity, confidence, and stage presence. It’s all about letting your passion shine. Event Date: 15 Sept. Timing: 11:00am",
        "rounds": [
         {
           "round": "",
@@ -750,9 +750,9 @@ export const eventdetail={
     "22":{
       "name": "Business Idea Pitch",
       "about": "Participants present innovative business ideas with market potential. The pitch includes problem identification, solution, and feasibility. Creativity and clarity are key. It’s a platform to turn entrepreneurial dreams into reality.",
-      "hosted_by": "Yash Rai",
+      "hosted_by": "Neeleshwar",
       "room_number": "B-205",
-      "mobile_number": "+91-8808484913",
+      "mobile_number": "+91-8545063992",
       "rounds":[
   {
     "round": "Team Composition",
@@ -888,9 +888,9 @@ export const eventdetail={
     "27":{
       "name": "Data Representation using Dashboard",
       "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
-      "hosted_by": "Suraj",
+      "hosted_by": "Areeba Hasan",
       "room_number": "A-Lab 2",
-      "mobile_number": "+91-8090417631",
+      "mobile_number": "+91-9628250000",
         "rounds": [
         {
           "round": "Participants",
@@ -919,9 +919,9 @@ export const eventdetail={
       "28":{
       "name": "Tech Treasure",
       "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
-      "hosted_by": "Sanjana Jaiswal",
+      "hosted_by": "Sujal Agrahari",
       "room_number": "A-Lab 2",
-      "mobile_number": "+91-8382965648",
+      "mobile_number": "+91-8090417631",
         "rounds":[
   {
     "round": "Event Description",
