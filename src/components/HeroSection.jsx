@@ -43,7 +43,7 @@ const HeroSection = () => {
   🎉 Participation in all events is absolutely FREE — no registration fee required. Come showcase your talent, learn, and lead without spending a dime! 🌟
 </marquee>
    <div className="text-white text-lg px-4 py-2 font-semibold font-sans mt-5 my-10">
-    <strong>!!!Some Events are organize at 15 Sep -</strong> SR got Talent , Mock Interview , Poster Making (Kindly check information at event description)
+    <strong>!!!Some Events are organize at 15 Sep -</strong> SR got Talent , Mock Interview , Poster Making and Reasoning & aptitude (Kindly check information at event description)
 </div>
  <NavLink
   to="https://wa.me/7905093236"
