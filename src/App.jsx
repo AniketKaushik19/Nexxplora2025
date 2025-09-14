@@ -8,11 +8,12 @@ import Navbar from './components/Navbar'
 import ViewCard from './components/ViewCard'
 import Register from './components/Register'
 import { Route, Routes } from 'react-router-dom'
+import EventWinnersDisplay from './components/EventWinnersDisplay'
+import { eventWinnersData } from './components/Winnersdata'
 function App() {
   return (
     <>
       <Navbar />
-
       <Routes>
         <Route path='/'
           element={  <>
@@ -23,6 +24,7 @@ function App() {
           </>
           } />
         <Route path="/:id" element={<ViewCard />} />
+        {/* <Route path="/winners/:id" element={<EventWinnersDisplay data={eventWinnersData} />} /> */}
         {/* <Route path="/register/:id/:title" element={<Register/>}/> */}
       </Routes>
     

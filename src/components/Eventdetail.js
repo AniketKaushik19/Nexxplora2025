@@ -205,7 +205,7 @@ export const eventdetail={
     "Language must be grammatically correct and use simple vocabulary"
   ],
   "hosted_by": "Amulya Dixit",
-  "room_number": "Room 105",
+  "room_number": "Room B-202",
   "mobile_number": "+91-9936025113",
   "rounds":[
   {
