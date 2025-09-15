@@ -276,7 +276,7 @@ export const eventdetail={
 ]
 ,
       "hosted_by": "Naveen",
-      "room_number": "No Room Required",
+      "room_number": "B-203",
       "mobile_number": "+91-7499276963"
     },
    "5": {
@@ -284,7 +284,7 @@ export const eventdetail={
   "name": "Coding & Debugging",
   "about": "This event is split into two rounds: the first focuses on solving coding problems, and the second on debugging faulty code. Participants must demonstrate logical thinking and attention to detail. Efficiency and accuracy are crucial. It’s a test of real-world programming skills.",
   "hosted_by": "Kanhaiya",
-  "room_number": "B-102",
+  "room_number": "B-302",
   "mobile_number": "+91-9006894885",
   "rounds": [
     {
@@ -321,7 +321,7 @@ export const eventdetail={
   "15":  {
       "name": "Codeless Development / DSA",
       "hosted_by": "Suraj",
-      "room_number": "B-302",
+      "room_number": "B-102",
       "mobile_number": "+91-7080393974",
       "rounds":[
   {
@@ -570,7 +570,7 @@ export const eventdetail={
       "name": "Logo Design",
       "about": "Participants create original logos that represent a brand, idea, or theme. Simplicity, symbolism, and visual appeal are key. The event encourages minimalistic yet meaningful design. It’s a test of branding and artistic intuition.",
       "hosted_by": "Yogesh",
-      "room_number": "B-G04 Lab",
+      "room_number": "Lab B G",
       "mobile_number": "+91-9696690157",
             "rounds": [
         {
@@ -643,7 +643,7 @@ export const eventdetail={
       "name": "Tech Meme War",
       "about": "his will be a fun and creative event focused on computer science that highlights the lighter side of engineering. Please allow me to include it in the event list.",
       "hosted_by": "Aryan",
-      "room_number": "A-Lab 3",
+      "room_number": "B 306",
       "mobile_number": "+91-6307168822",
       "rounds": [
   {
@@ -820,7 +820,7 @@ export const eventdetail={
       "name": "Just a Minute (JAM)",
       "about": "Participants speak on a given topic for one minute without hesitation, repetition, or deviation. It’s a test of fluency, spontaneity, and confidence. The challenge lies in staying sharp and articulate. It’s fun, fast, and fiercely competitive.",
       "hosted_by": "Naveen",
-      "room_number": "B-106",
+      "room_number": "B-203",
       "mobile_number": "+91-7499276963",
       "rounds":[
   {
@@ -987,7 +987,7 @@ export const eventdetail={
       "name": "Data Representation using Dashboard",
       "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
       "hosted_by": "Areeba Hasan",
-      "room_number": "A-Lab 2",
+      "room_number": "B-306",
       "mobile_number": "+91-9628250000",
         "rounds": [
         {
@@ -1018,7 +1018,7 @@ export const eventdetail={
       "name": "Tech Treasure",
       "about": "To test participants’ ability to turn raw data into meaningful insights through visually appealing and interactive dashboards using Power BI and Tableau.",
       "hosted_by": "Sujal Agrahari",
-      "room_number": "A-Lab 2",
+      "room_number": "B-302",
       "mobile_number": "+91-8090417631",
         "rounds":[
   {
