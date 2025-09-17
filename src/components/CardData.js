@@ -5,8 +5,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Web Wonder",
         imgsrc:"img/webwonder.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSd6haDTbM-MlmTFKBwf-E3-ZTxZD5AAB1AzWculz5Fb6MLJ2w/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/web"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSd6haDTbM-MlmTFKBwf-E3-ZTxZD5AAB1AzWculz5Fb6MLJ2w/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:2,
@@ -14,8 +13,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Ad-mad show",
         imgsrc:"img/admad.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSfvjNn-_rLzpbaNwMuVx8sefHvo9RX48soDT1T2-_x3_mXZOg/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/admad"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSfvjNn-_rLzpbaNwMuVx8sefHvo9RX48soDT1T2-_x3_mXZOg/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:3,
@@ -23,8 +21,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Reasoning",
         imgsrc:"img/resoning.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSfbUD3oUjmSpMlIkdAB1002n4wuP8KzskbnsUmxQQ0lrmGdhg/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/calci"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSfbUD3oUjmSpMlIkdAB1002n4wuP8KzskbnsUmxQQ0lrmGdhg/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:4,
@@ -32,8 +29,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"ChatGpt prompt",
         imgsrc:"img/prompt.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSf79zKeghHvIGVTiT_TB6C1Dlf88UgirP32pjS1s-OYiUsrPA/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/chatgpt"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSf79zKeghHvIGVTiT_TB6C1Dlf88UgirP32pjS1s-OYiUsrPA/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:5,
@@ -41,8 +37,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Coding and Debugging",
         imgsrc:"img/coding.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSfneQWqTzbtdybx4CqNGUxUXmlkXBdAS4i_hyLRllbfaz1wFw/viewform?usp=header",
-        page:"/code"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSfneQWqTzbtdybx4CqNGUxUXmlkXBdAS4i_hyLRllbfaz1wFw/viewform?usp=header",
     },
     {
         key:6,
@@ -50,8 +45,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Lan Gaming / Online Gaming",
         imgsrc:"img/gaming.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSdMTE8qJU0M3ubu-WpqwhXt-yZ0h6gpEXPqjLOgi9j0P2HOkg/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/lan"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSdMTE8qJU0M3ubu-WpqwhXt-yZ0h6gpEXPqjLOgi9j0P2HOkg/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:7,
@@ -59,8 +53,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Mock Interview",
         imgsrc:"img/mock.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLScRHWS-lsnIZ2ygXx9ug8PYy5r8PxWDVbsrBeF0pNsbF9xRcQ/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/mock"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLScRHWS-lsnIZ2ygXx9ug8PYy5r8PxWDVbsrBeF0pNsbF9xRcQ/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:8,
@@ -68,8 +61,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Poster Making",
         imgsrc:"img/poster.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSd2RnqE8DYlWfO-81Bo4HPBLI7FgG62E8YMJkt7BbpAacCoww/viewform?usp=header",
-        page:"/poster"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSd2RnqE8DYlWfO-81Bo4HPBLI7FgG62E8YMJkt7BbpAacCoww/viewform?usp=header",
     },
     {
     key:9,
@@ -77,8 +69,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"PPT/Project Presentation",
          imgsrc:"img/ppt.avif",
-         link:"https://docs.google.com/forms/d/e/1FAIpQLScaQoXhvaEDqyhjNC3tJ4yj9mrb-yjuH2MG76cHFlsDG59wcw/viewform?usp=sharing&ouid=101332963653483640625",
-         page:"/ppt"
+        //  link:"https://docs.google.com/forms/d/e/1FAIpQLScaQoXhvaEDqyhjNC3tJ4yj9mrb-yjuH2MG76cHFlsDG59wcw/viewform?usp=sharing&ouid=101332963653483640625",
         },
         {
             key:10,
@@ -86,8 +77,7 @@ const Carddata=[
             reg:"Registration Closed",
             name:" Rapid Fire Quiz",
             imgsrc:"img/rapidfire.jpeg",
-            link:"https://docs.google.com/forms/d/e/1FAIpQLSeZsk8MXbtFcuwPG7fgZdlHAV3Nm8TioawxB40vIkC7wz04bg/viewform?usp=sharing&ouid=101332963653483640625",
-            page:"/quiz"
+            // link:"https://docs.google.com/forms/d/e/1FAIpQLSeZsk8MXbtFcuwPG7fgZdlHAV3Nm8TioawxB40vIkC7wz04bg/viewform?usp=sharing&ouid=101332963653483640625",
         },
         {
             key:11,
@@ -95,8 +85,7 @@ const Carddata=[
             reg:"Registration Closed",
             name:"SR Got Talent",
             imgsrc:"img/sr.avif",
-            link:"https://docs.google.com/forms/d/e/1FAIpQLSdhreIb7j1nQhocoNVvrNo92VCQY5uHlW5StC4UDjRi7ZsdLA/viewform?usp=sharing&ouid=101332963653483640625",
-            page:"/srgot"
+            // link:"https://docs.google.com/forms/d/e/1FAIpQLSdhreIb7j1nQhocoNVvrNo92VCQY5uHlW5StC4UDjRi7ZsdLA/viewform?usp=sharing&ouid=101332963653483640625",
         },
         
        
@@ -107,8 +96,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Debate",
      imgsrc:"img/debate.jpeg",
-     link:"https://docs.google.com/forms/d/e/1FAIpQLScK70NVSYjXICoFQzPPFXSElnZLfDbnSbpWDfDVIi6OJCFcCw/viewform?usp=sharing&ouid=101332963653483640625",
-     page:"/debate"
+    //  link:"https://docs.google.com/forms/d/e/1FAIpQLScK70NVSYjXICoFQzPPFXSElnZLfDbnSbpWDfDVIi6OJCFcCw/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:15,
@@ -116,8 +104,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Codeless development / DSA",
      imgsrc:"img/dsa.avif",
-     link:"https://docs.google.com/forms/d/e/1FAIpQLScVxXdngWTRh5mDMa49bGWkeBmk4BoKl_VYtBIOtFTw2byAUQ/viewform?usp=header",
-     page:"/dsa"
+    //  link:"https://docs.google.com/forms/d/e/1FAIpQLScVxXdngWTRh5mDMa49bGWkeBmk4BoKl_VYtBIOtFTw2byAUQ/viewform?usp=header",
     },
     {
         key:16,
@@ -125,8 +112,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Capture the Flag",
      imgsrc:"img/ctf.avif",
-     link:"https://docs.google.com/forms/d/e/1FAIpQLSdTjx8fHeEW4Im6FCFKADzg2nCIN06uaIb6Gppl6qB5t-HhNw/viewform?usp=sharing&ouid=101332963653483640625 ",
-     page:"/ctf"
+    //  link:"https://docs.google.com/forms/d/e/1FAIpQLSdTjx8fHeEW4Im6FCFKADzg2nCIN06uaIb6Gppl6qB5t-HhNw/viewform?usp=sharing&ouid=101332963653483640625 ",
     },
     {
         key:17,
@@ -134,8 +120,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Content Writing",
      imgsrc:"img/writing.avif",
-     link:"https://docs.google.com/forms/d/e/1FAIpQLSen-G79GMIiM_YC6qqFpj_yb2oy8oa9dsFvzRqk4tUV5Ahm7Q/viewform?usp=header",
-     page:"/techwriting"
+    //  link:"https://docs.google.com/forms/d/e/1FAIpQLSen-G79GMIiM_YC6qqFpj_yb2oy8oa9dsFvzRqk4tUV5Ahm7Q/viewform?usp=header",
     },
     {
         key:18,
@@ -143,8 +128,7 @@ const Carddata=[
     reg:"Registration Closed",
      name:"Group Discussion",
      imgsrc:"img/gd.avif",
-     link:"https://docs.google.com/forms/d/e/1FAIpQLSfUHPbIR27AIiNxjZdJxPpJS0L4rx_JDR7J9YnZtRh5GhuRCg/viewform?usp=header",
-     page:"/techwriting"
+    //  link:"https://docs.google.com/forms/d/e/1FAIpQLSfUHPbIR27AIiNxjZdJxPpJS0L4rx_JDR7J9YnZtRh5GhuRCg/viewform?usp=header",
     },
     {
         key:20,
@@ -152,8 +136,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Hackathon",
         imgsrc:"img/hackathon.jpeg",
-        link:"https://chat.whatsapp.com/I4baK68OXVE7cR58gHneXi",
-        page:"/revment"
+        // link:"https://chat.whatsapp.com/I4baK68OXVE7cR58gHneXi",
     },
     {
         key:21,
@@ -162,8 +145,7 @@ const Carddata=[
 
         name:"Pictionary",
         imgsrc:"img/pictionary.jpg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSeuH74lJRuKT1i68AGRIFMUGEYM0qUxb5xnWN-TrUXkyGK8jg/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSeuH74lJRuKT1i68AGRIFMUGEYM0qUxb5xnWN-TrUXkyGK8jg/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:22,
@@ -171,8 +153,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Business Idea",
         imgsrc:"img/pitchidea.avif",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSehWkyveNsqm6PkeU4radzQYPoynN4wgMoGlRuoMr9hZ6PTJw/viewform?usp=header",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSehWkyveNsqm6PkeU4radzQYPoynN4wgMoGlRuoMr9hZ6PTJw/viewform?usp=header",
     },
     {
         key:23,
@@ -180,8 +161,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Just a Minute",
         imgsrc:"img/jam.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSePT9ap0afHV7TC3rv3Ru8V0_OTvfzUQoamI2ddLbuveMQzlg/viewform?usp=header",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSePT9ap0afHV7TC3rv3Ru8V0_OTvfzUQoamI2ddLbuveMQzlg/viewform?usp=header",
     },
     {
         key:24,
@@ -189,8 +169,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Logo Design",
         imgsrc:"img/logo.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSeEj4PgHUrhkhIypBR-nI_HPOm3B0UywD-mUwPzF8Qc-t60dg/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSeEj4PgHUrhkhIypBR-nI_HPOm3B0UywD-mUwPzF8Qc-t60dg/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:25,
@@ -198,8 +177,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Reverse Coding",
         imgsrc:"img/revcoding.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSfy3oXL4W0Mpq3BuNi34XIZFjSevyEKZNMELsbgoxAgaAozXQ/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSfy3oXL4W0Mpq3BuNi34XIZFjSevyEKZNMELsbgoxAgaAozXQ/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:26,
@@ -207,8 +185,7 @@ const Carddata=[
         reg:"Registration Closed",
         name:"Tech Meme War",
         imgsrc:"img/techmemes.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSdQ0CYTDKwyy8Ehb4eUWLAgO1L5prXtbODwEt8655B1vyz4nw/viewform?usp=sharing&ouid=101332963653483640625",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSdQ0CYTDKwyy8Ehb4eUWLAgO1L5prXtbODwEt8655B1vyz4nw/viewform?usp=sharing&ouid=101332963653483640625",
     },
     {
         key:27,
@@ -216,8 +193,7 @@ const Carddata=[
         reg:"Registration open",
         name:"Data Representation using Dashboard",
         imgsrc:"img/dvd.jpeg",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSegls2kUd9br8rNsZUmJVA_US8V7BYNPs6ORGc1_0AspB0HZw/viewform?usp=header",
     },
     {
         key:28,
@@ -225,8 +201,7 @@ const Carddata=[
         reg:"Registration open",
         name:"Tech Treasure Hunt",
         imgsrc:"img/techtreasure.png",
-        link:"https://docs.google.com/forms/d/e/1FAIpQLSezJBiyEHjXJ6B71-BQ9VTsYele1ZAmIz1G8y-SKRES1wZ4jQ/viewform?usp=header",
-        page:"/revment"
+        // link:"https://docs.google.com/forms/d/e/1FAIpQLSezJBiyEHjXJ6B71-BQ9VTsYele1ZAmIz1G8y-SKRES1wZ4jQ/viewform?usp=header",
     },
 
 ]

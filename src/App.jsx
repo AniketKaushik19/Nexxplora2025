@@ -24,7 +24,7 @@ function App() {
           </>
           } />
         <Route path="/:id" element={<ViewCard />} />
-        {/* <Route path="/winners/:id" element={<EventWinnersDisplay data={eventWinnersData} />} /> */}
+        <Route path="/winners/:id" element={<EventWinnersDisplay data={eventWinnersData} />} />
         {/* <Route path="/register/:id/:title" element={<Register/>}/> */}
       </Routes>
     

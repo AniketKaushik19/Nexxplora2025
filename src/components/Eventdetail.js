@@ -191,7 +191,7 @@ export const eventdetail={
     "task": "Builds confidence for real campus placements and job interviews."
   }
 ]  ,
-      "hosted_by": "Akshay",
+      "hosted_by": "Akshay , Rajveer",
       "room_number": "B-202",
       "mobile_number": "+91-7839158441"
     },

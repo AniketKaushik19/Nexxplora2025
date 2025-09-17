@@ -1,14 +1,22 @@
 import React from 'react';
+import { useParams } from 'react-router-dom';
+import Carddata from './CardData';
 
 const EventWinnersDisplay = ({ data }) => {
+  const {id}=useParams()
+   const basicInfo = Carddata.find(val => val.key == id);
+   const extraDetails=data[id];
+
   return (
+    <>
+    {basicInfo && extraDetails ? (
     <div className="max-w-3xl mx-auto px-6 py-5 bg-black/60 backdrop-blur-xl border border-gray-700 rounded-2xl shadow-gray-500
     shadow-[0_0_30px_rgba(0,0,0,0.6)]">
       <div className="text-center mb-4">
         <h1 className="text-4xl font-extrabold text-cyan-400 tracking-wide drop-shadow-md">
           {data.eventName}
         </h1>
-        <p className="text-lg text-gray-300 mt-2">🏁 Event Summary</p>
+        <p className="text-lg text-gray-300 mt-2">{extraDetails.eventName}</p>
       </div>
 
       <div className="text-center mb-5" data-aos="fade-up" data-aos-duration="1000"
@@ -21,7 +29,7 @@ const EventWinnersDisplay = ({ data }) => {
 
       <div className="space-y-6" data-aos="fade-up" data-aos-duration="1000"
  data-aos-easing="ease-in-out" >
-        {data.winners.map((winner, index) => (
+        {extraDetails.winners.map((winner, index) => (
           <div
             key={index}
             className="bg-gradient-to-br  to-gray-800 border border-gray-700 rounded-xl p-3 shadow-lg hover:shadow-cyan-500/30 transition duration-300"
@@ -38,7 +46,10 @@ const EventWinnersDisplay = ({ data }) => {
           </div>
         ))}
       </div>
-    </div>
+    </div> ) : (
+        <p className='my-5 px-5 font-extrabold text-3xl font-sans'>Data Not Available</p>
+      )}
+      </>
   );
 };
 
