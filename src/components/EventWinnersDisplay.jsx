@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import Carddata from './CardData';
 
@@ -6,6 +6,10 @@ const EventWinnersDisplay = ({ data }) => {
   const {id}=useParams()
    const basicInfo = Carddata.find(val => val.key == id);
    const extraDetails=data[id];
+
+   useEffect(()=>{ 
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+   },[])
 
   return (
     <>
