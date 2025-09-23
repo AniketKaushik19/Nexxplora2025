@@ -8,13 +8,13 @@ import { getMessaging , getToken} from "firebase/messaging";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCGk7rXi9enkFWYCTdwewugOaryYF5-Xfg",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "nexxplora2025.firebaseapp.com",
-  projectId: "nexxplora2025",
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
   storageBucket: "nexxplora2025.firebasestorage.app",
-  messagingSenderId: "942055272847",
-  appId: "1:942055272847:web:d5323ccf0ca64009d85bfa",
-  measurementId: "G-9M20HP9KK0"
+  messagingSenderId: import.meta.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_VAPID_KEY,
+  measurementId: import.meta.env.VITE_MEASURE_ID
 };
 
 // Initialize Firebase
@@ -24,10 +24,9 @@ const analytics = getAnalytics(app);
 
 export const generateToken =async()=>{
     const permission =await Notification.requestPermission();
-    console.log(permission)
     if(permission==="granted"){
         const token= await getToken(messaging,{
-            vapidKey:"BPZXBdvRctmgF75baOphb7m1R0WPCGj_B_d83Tdc2gJUjkqeg7gZpEvyEhOdI_iPdQ7A6IQX9Nzw_eLzFxy-xf8"
+            vapidKey:import.meta.env.VITE_FIREBASE_VAPID_KEY
         })
         console.log(token)
     }
