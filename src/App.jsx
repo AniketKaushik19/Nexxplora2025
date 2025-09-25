@@ -12,17 +12,17 @@ import EventWinnersDisplay from './components/EventWinnersDisplay'
 import { eventWinnersData } from './components/Winnersdata'
 import { useEffect } from 'react'
 
-import { generateToken , messaging} from './notification/firebase'
-import { onMessage } from 'firebase/messaging'
+// import { generateToken , messaging} from './notification/firebase'
+// import { onMessage } from 'firebase/messaging'
 import toast , {Toaster} from 'react-hot-toast'
 function App() {
-  useEffect(()=>{
-    generateToken();
-    onMessage(messaging,(payload)=>{
-      console.log(payload)
-      toast(payload.notification.body)
-    })
-  },[])
+  // useEffect(()=>{
+  //   generateToken();
+  //   onMessage(messaging,(payload)=>{
+  //     console.log(payload)
+  //     toast(payload.notification.body)
+  //   })
+  // },[])
   return (
     <>
     <Toaster position='top-right'/>
