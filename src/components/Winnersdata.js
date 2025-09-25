@@ -211,9 +211,28 @@ export const eventWinnersData = {
     eventName: "🏆 Hackathon",
     totalParticipants: 0,
     winners: [
-      { position: "First 🥇", name: "Not Available", rollNumber: "Not Available" },
-      { position: "Second 🥈", name: "Not Available", rollNumber: "Not Available" },
-      { position: "Third 🥉", name: "Not Available", rollNumber: "Not Available" }
+      { position: "(Ist year) First 🥇", name: "Anmol Tiwari", rollNumber: "" },
+      { position: "(Ist year) First 🥇", name: "Ayush Tiwari", rollNumber: "Not Available" },
+      { position: "(Ist year) Second 🥈", name: "Shreya Awasthi", rollNumber: "Not Available" },
+      { position: "(Ist year) Second 🥈", name: "Dhirendra Dubey", rollNumber: "Not Available" },
+      { position: "(Ist year) Third 🥉", name: "Amritanshi Mishra", rollNumber: "Not Available" },
+      { position: "(Ist year) Third 🥉", name: "Dolly Mishra", rollNumber: "Not Available" },
+
+      { position: "First 🥇", name: "Abhinav Pandey", rollNumber: "" },
+      { position: "First 🥇", name: "Vivek Yadav", rollNumber: "Not Available" },
+      { position: "First 🥇", name: "Akash Vishwakarma", rollNumber: "Not Available" },
+      { position: "First 🥇", name: "Aditya Singh", rollNumber: "Not Available" },
+      { position: "Second 🥈", name: "Asheesh", rollNumber: "Not Available" },
+      { position: "Second 🥈", name: "Harsh Pathak", rollNumber: "Not Available" },
+      { position: "Second 🥈", name: "Avinash yadav", rollNumber: "Not Available" },
+      { position: "Second 🥈", name: "Pradeep Prajapti", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Neha Yadav ", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Anjali Gupta", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Amrita Maurya", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Siraj Ahmad", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Gurtan Khan", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Irfan Ali", rollNumber: "Not Available" },
+      { position: "Third 🥉", name: "Rashid Ali", rollNumber: "Not Available" },
     ]
   },
   "23": {
